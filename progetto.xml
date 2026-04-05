@@ -1,0 +1,1867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="progetto.xsl"?> 
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="it">
+<teiHeader xml:lang="it">
+
+    <fileDesc>
+        <titleStmt>
+            <title level="j" type="main">Rassegna Settimanale</title>
+            <title level="j" type="sub">di Politica, Scienze, Lettere ed Arti</title>
+
+            <respStmt> 
+                <resp> Fondatori: </resp>
+                <persName>Leopoldo Franchetti</persName>
+                <persName>Sydney Sonnino</persName> 
+            </respStmt>
+
+        </titleStmt>
+
+        <editionStmt> 
+            <edition>Edizione digitale
+            <date when="2026-04">Aprile 2026</date> 
+            </edition>
+            <respStmt> 
+                <resp>Coordinatore:</resp>
+                <persName xml:id="Angelo_Maria_Del_Grosso">Angelo Maria Del Grosso</persName>
+            </respStmt>
+        </editionStmt>
+
+        <extent>                    
+            <measure type="pages">7</measure> 
+        </extent> 
+ 
+        <publicationStmt>
+            <publisher>Università di Pisa</publisher> 
+            <pubPlace>Pisa</pubPlace>
+            <date when="2026">2026</date>
+         </publicationStmt>
+
+         <seriesStmt> 
+    <title>Rassegna Settimanale di Politica, Scienze, Lettere ed Arti</title> 
+    
+    <respStmt> 
+        <resp>Codifica del testo a cura di:</resp>
+        <persName xml:id="Martina_Marchesini">Martina Marchesini</persName> 
+    </respStmt> 
+
+</seriesStmt>
+
+        <sourceDesc>
+            <biblStruct xml:id="F213" xml:lang="it">
+                    <analytic>
+                        <title level="a" type="main">X</title>
+                        <author> 
+                            <persName>Matilde Serao</persName>
+                        </author>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">Rassegna Settimanale</title>
+                        <title level="j" type="sub">di Politica, Scienze, Lettere ed Arti</title>
+                        <imprint>
+                            <pubPlace ref="#Roma">Roma</pubPlace>
+                            <publisher corresp="https://it.wikipedia.org/wiki/Casa_Editrice_Barb%C3%A8ra">Casa Editrice Barbera</publisher>
+                            <date when="1882">1882</date>
+                        </imprint>
+                        <biblScope unit="volume">9</biblScope>
+                        <biblScope unit="issue">213</biblScope>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="F204" xml:lang="it">
+
+                    <analytic>
+                        <title level="a" type="main">PER SEMPRE</title>
+                        <author> 
+                            <persName>Neera</persName>
+                        </author>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">Rassegna Settimanale</title>
+                        <title level="j" type="sub">di Politica, Scienze, Lettere ed Arti</title>
+                        <imprint>
+                            <pubPlace ref="#Roma">Roma</pubPlace>
+                            <publisher corresp="https://it.wikipedia.org/wiki/Casa_Editrice_Barb%C3%A8ra">Casa Editrice Barbera</publisher>
+                            <date when="1881">1881</date>
+                        </imprint>
+                        <biblScope unit="volume">8</biblScope>
+                        <biblScope unit="issue">204</biblScope>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="BIB" xml:lang="it">
+
+                    <analytic>
+                        <title level="a" type="main">BIBLIOGRAFIA</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">Rassegna Settimanale</title>
+                        <title level="j" type="sub">di Politica, Scienze, Lettere ed Arti</title>
+                        <imprint>
+                            <pubPlace ref="#Roma">Roma</pubPlace>
+                            <publisher corresp="https://it.wikipedia.org/wiki/Casa_Editrice_Barb%C3%A8ra">Casa Editrice Barbera</publisher>
+                            <date when="1881">1881</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+                <biblStruct xml:id="NOT" xml:lang="it">
+
+                    <analytic>
+                        <title level="a" type="main">NOTIZIE</title>
+                    </analytic>
+                    <monogr>
+                        <title level="j" type="main">Rassegna Settimanale</title>
+                        <title level="j" type="sub">di Politica, Scienze, Lettere ed Arti</title>
+                        <imprint>
+                            <pubPlace ref="#Roma">Roma</pubPlace>
+                            <publisher corresp="https://it.wikipedia.org/wiki/Casa_Editrice_Barb%C3%A8ra">Casa Editrice Barbera</publisher>
+                            <date when="1881">1881</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+
+        </sourceDesc>
+    </fileDesc>
+
+<!-- ENCODING DESC -->
+
+    <encodingDesc> 
+        <projectDesc>
+        <p>Questo progetto presenta una edizione digitale di quattro sezioni della <title level="j">Rassegna Settimanale di Politica, Scienze, Lettere ed Arti</title>. 
+        </p>
+        <p>Gli articoli codificati sono i seguenti: 
+            <list> 
+                <item>
+                    <title level="a" type="main">X</title>
+                </item>
+                <item> 
+                    <title level="a" type="main">PER SEMPRE</title>
+                </item>
+                <item>
+                    <title level="a" type="main">BIBLIOGRAFIA</title>
+                </item>
+                <item>
+                    <title level="a" type="main">NOTIZIE</title>
+                </item>
+            </list>
+        </p>
+        </projectDesc>
+    </encodingDesc> 
+</teiHeader>
+
+<facsimile>
+
+<!-- X -->
+<surface xml:id="surface_x_1" corresp="#x_1">
+<graphic url='X-Matilde_Serao-1.png' width='606.4px' height='851.4px' />
+<zone ulx="429" uly="235" lrx="481" lry="247" corresp="titolo_x"/>
+<zone ulx="322" uly="248" lrx="580" lry="447" corresp="p1_x"/>
+<zone ulx="321" uly="447" lrx="580" lry="493" corresp="p2_x"/>
+<zone ulx="322" uly="493" lrx="583" lry="793" corresp="p3_x"/>
+</surface>
+
+<surface xml:id="surface_x_2" corresp="#x_2">
+<graphic url='X-Matilde_Serao-2.png' width='568.4px' height='813.4px' />
+<zone ulx="29" uly="35" lrx="281" lry="237" corresp="p4_x"/>
+<zone ulx="29" uly="236" lrx="278" lry="289" corresp="p5_x"/>
+<zone ulx="29" uly="288" lrx="283" lry="744" corresp="p6_x"/>
+<zone ulx="287" uly="36" lrx="538" lry="56" corresp="p7_x"/>
+<zone ulx="286" uly="59" lrx="537" lry="88" corresp="p8_x"/>
+<zone ulx="287" uly="89" lrx="539" lry="511" corresp="p9_x"/>
+<zone ulx="288" uly="512" lrx="540" lry="554" corresp="p10_x"/>
+</surface>
+
+<!-- PER SEMPRE -->
+<surface xml:id="surface_per_sempre_1" corresp="#per_sempre_1">
+<graphic url='Per_Sempre-Neera-1.png' width='546.4px' height='776.4px' />
+<zone ulx="131" uly="579" lrx="215" lry="594" corresp="titolo_per_sempre"/>
+<zone ulx="49" uly="596" lrx="292" lry="717" corresp="p1_per_sempre"/>
+<zone ulx="49" uly="718" lrx="291" lry="739" corresp="p2_per_sempre"/>
+<zone ulx="295" uly="54" lrx="537" lry="85" corresp="p3_per_sempre"/>
+<zone ulx="295" uly="86" lrx="537" lry="136" corresp="p4_per_sempre"/>
+<zone ulx="296" uly="137" lrx="537" lry="208" corresp="p5_per_sempre"/>
+<zone ulx="295" uly="209" lrx="537" lry="228" corresp="p6_per_sempre"/>
+<zone ulx="295" uly="227" lrx="537" lry="317" corresp="p7_per_sempre"/>
+<zone ulx="296" uly="318" lrx="537" lry="431" corresp="p8_per_sempre"/>
+<zone ulx="296" uly="434" lrx="537" lry="463" corresp="p9_per_sempre"/>
+<zone ulx="297" uly="463" lrx="537" lry="503" corresp="p10_per_sempre"/>
+<zone ulx="297" uly="504" lrx="538" lry="524" corresp="p11_per_sempre"/>
+<zone ulx="297" uly="526" lrx="537" lry="565" corresp="p12_per_sempre"/>
+<zone ulx="297" uly="565" lrx="537" lry="605" corresp="p13_per_sempre"/>
+<zone ulx="298" uly="606" lrx="537" lry="687" corresp="p14_per_sempre"/>
+<zone ulx="298" uly="687" lrx="537" lry="738" corresp="p15_per_sempre"/>
+</surface>
+
+<surface xml:id="surface_per_sempre_2" corresp="#per_sempre_2">
+<graphic url='Per_Sempre-Neera-2.png' width='546.4px' height='762.4px' />
+<zone ulx="26" uly="34" lrx="268" lry="107" corresp="p16_per_sempre"/>
+<zone ulx="26" uly="107" lrx="268" lry="157" corresp="p17_per_sempre"/>
+<zone ulx="27" uly="157" lrx="267" lry="239" corresp="p18_per_sempre"/>
+<zone ulx="29" uly="239" lrx="267" lry="249" corresp="p19_per_sempre"/>
+<zone ulx="25" uly="252" lrx="267" lry="299" corresp="p20_per_sempre"/>
+<zone ulx="25" uly="301" lrx="268" lry="343" corresp="p21_per_sempre"/>
+<zone ulx="25" uly="343" lrx="269" lry="363" corresp="p22_per_sempre"/>
+<zone ulx="25" uly="363" lrx="269" lry="401" corresp="p23_per_sempre"/>
+<zone ulx="25" uly="400" lrx="268" lry="423" corresp="p24_per_sempre"/>
+<zone ulx="25" uly="423" lrx="268" lry="445" corresp="p25_per_sempre"/>
+<zone ulx="25" uly="445" lrx="268" lry="466" corresp="p26_per_sempre"/>
+<zone ulx="25" uly="466" lrx="267" lry="474" corresp="p27_per_sempre"/>
+<zone ulx="25" uly="475" lrx="267" lry="484" corresp="p28_per_sempre"/>
+<zone ulx="25" uly="483" lrx="267" lry="492" corresp="p29_per_sempre"/>
+<zone ulx="26" uly="492" lrx="269" lry="504" corresp="p30_per_sempre"/>
+<zone ulx="25" uly="504" lrx="268" lry="515" corresp="p31_per_sempre"/>
+<zone ulx="25" uly="515" lrx="265" lry="596" corresp="p32_per_sempre"/>
+<zone ulx="25" uly="596" lrx="266" lry="657" corresp="p33_per_sempre"/>
+<zone ulx="25" uly="657" lrx="266" lry="698" corresp="p34_per_sempre"/>
+<zone ulx="23" uly="696" lrx="266" lry="722" corresp="p35_per_sempre"/>
+<zone ulx="272" uly="34" lrx="515" lry="76" corresp="p36_per_sempre"/>
+<zone ulx="272" uly="77" lrx="513" lry="116" corresp="p37_per_sempre"/>
+<zone ulx="273" uly="117" lrx="512" lry="136" corresp="p38_per_sempre"/>
+<zone ulx="272" uly="136" lrx="513" lry="166" corresp="p39_per_sempre"/>
+<zone ulx="272" uly="166" lrx="513" lry="188" corresp="p40_per_sempre"/>
+<zone ulx="270" uly="188" lrx="512" lry="197" corresp="p41_per_sempre"/>
+<zone ulx="270" uly="196" lrx="514" lry="230" corresp="p42_per_sempre"/>
+<zone ulx="272" uly="230" lrx="373" lry="238" corresp="p43_per_sempre"/>
+<zone ulx="272" uly="241" lrx="517" lry="254" corresp="p44_per_sempre"/>
+<zone ulx="272" uly="259" lrx="516" lry="280" corresp="p45_per_sempre"/>
+<zone ulx="273" uly="281" lrx="508" lry="289" corresp="p46_per_sempre"/>
+<zone ulx="276" uly="290" lrx="379" lry="301" corresp="p47_per_sempre"/>
+<zone ulx="278" uly="301" lrx="389" lry="308" corresp="p48_per_sempre"/>
+<zone ulx="280" uly="309" lrx="515" lry="321" corresp="p49_per_sempre"/>
+<zone ulx="279" uly="322" lrx="513" lry="352" corresp="p50_per_sempre"/>
+<zone ulx="279" uly="352" lrx="399" lry="363" corresp="p51_per_sempre"/>
+<zone ulx="269" uly="362" lrx="513" lry="401" corresp="p52_per_sempre"/>
+<zone ulx="269" uly="402" lrx="512" lry="464" corresp="p53_per_sempre"/>
+<zone ulx="269" uly="465" lrx="511" lry="495" corresp="p54_per_sempre"/>
+<zone ulx="269" uly="495" lrx="399" lry="503" corresp="p55_per_sempre"/>
+<zone ulx="269" uly="504" lrx="509" lry="524" corresp="p56_per_sempre"/>
+<zone ulx="269" uly="523" lrx="510" lry="554" corresp="p57_per_sempre"/>
+<zone ulx="270" uly="555" lrx="508" lry="578" corresp="p58_per_sempre"/>
+<zone ulx="269" uly="578" lrx="511" lry="607" corresp="p59_per_sempre"/>
+<zone ulx="269" uly="607" lrx="510" lry="656" corresp="p60_per_sempre"/>
+<zone ulx="269" uly="657" lrx="509" lry="698" corresp="p61_per_sempre"/>
+<zone ulx="270" uly="697" lrx="510" lry="718" corresp="p62_per_sempre"/>
+</surface>
+
+<surface xml:id="surface_per_sempre_3" corresp="#per_sempre_3">
+<graphic url='Per_Sempre-Neera-3.png' width='532.4px' height='770.4px' />
+<zone ulx="31" uly="48" lrx="130" lry="60" corresp="p63_per_sempre"/>
+<zone ulx="31" uly="59" lrx="98" lry="70" corresp="p64_per_sempre"/>
+<zone ulx="17" uly="72" lrx="262" lry="109" corresp="p65_per_sempre"/>
+<zone ulx="17" uly="110" lrx="261" lry="131" corresp="p66_per_sempre"/>
+<zone ulx="16" uly="132" lrx="263" lry="203" corresp="p67_per_sempre"/>
+<zone ulx="16" uly="202" lrx="266" lry="295" corresp="p68_per_sempre"/>
+<zone ulx="17" uly="295" lrx="263" lry="336" corresp="p69_per_sempre"/>
+</surface>
+
+<!-- BIBLIOGRAFIA -->
+<surface xml:id="surface_bibliografia_1" corresp="#bibliografia_1">
+<graphic url='Bibliografia-1.png' width='573.4px' height='817.4px' />
+<zone ulx="286" uly="549" lrx="547" lry="575" corresp="sottotitolo1_bibliografia"/>
+<zone ulx="286" uly="575" lrx="545" lry="606" corresp="p1_bibliografia"/>
+<zone ulx="285" uly="606" lrx="547" lry="760" corresp="p2_bibliografia"/>
+</surface>
+
+<surface xml:id="surface_bibliografia_2" corresp="#bibliografia_2">
+<graphic url='Bibliografia-2_Notizie.png' width='573.4px' height='820.4px' />
+<zone ulx="45" uly="34" lrx="306" lry="79" corresp="p3_bibliografia"/>
+<zone ulx="45" uly="79" lrx="305" lry="306" corresp="p4_bibliografia"/>
+<zone ulx="45" uly="308" lrx="305" lry="348" corresp="sottotitolo2_bibliografia"/>
+<zone ulx="45" uly="348" lrx="305" lry="491" corresp="p5_bibliografia"/>
+<zone ulx="43" uly="491" lrx="304" lry="760" corresp="p6_bibliografia"/>
+<zone ulx="306" uly="37" lrx="567" lry="320" corresp="p7_bibliografia"/>
+<zone ulx="308" uly="320" lrx="566" lry="388" corresp="p8_bibliografia"/>
+</surface>
+
+<!-- NOTIZIE -->
+<surface xml:id="surface_notizie" corresp="#notizie">
+<graphic url='Bibliografia-2_Notizie.png' width='573.4px' height='820.4px' />
+<zone ulx="401" uly="392" lrx="477" lry="404" corresp="titolo_notizie"/>
+<zone ulx="306" uly="406" lrx="568" lry="455" corresp="p1_notizie"/>
+<zone ulx="307" uly="455" lrx="569" lry="477" corresp="p2_notizie"/>
+<zone ulx="306" uly="483" lrx="565" lry="700" corresp="p3_notizie"/>
+</surface>
+</facsimile>
+
+<!-- X -->
+
+<text xml:lang="it">
+	<body>
+      <div type="article" xml:id="articolo1">
+		<head xml:id="titolo_x">X</head>
+			<pb n="1"/>
+	        <cb n="2"/>
+				<p xml:id="p1_x">
+                    <lb n="1"/> Nella oscurità della <time type="partOfDay">notte</time> fiammeggiava nella <rs type="place">stanza</rs>
+                    <lb n="2"/> il fuoco del caminetto. Ogni tanto una <rs type="bodyPart">mano</rs> bianca si 
+                    <lb n="3"/> coloriva di fiamma, attizzando lentamente il fuoco. Le
+                    <lb n="4"/> tre <rs type="personGroup">fanciulle</rs> tacevano, prese dal pensiero. Ognuna di esse 
+                    <lb n="5"/> s’immaginava essere sola, in un <rs type="place">ambiente</rs> vago ed inde-
+                    <lb n="6" break="no"/> finito, senza nozione di spazio, senza nozione di tempo.
+                    <lb n="7"/> Quando il <time type="partOfDay">crepuscolo</time> era cresciuto, avevano sentito il bi-
+                    <lb n="8" break="no"/> sogno di tacere, di raccogliersi. L’una abbandonata sulla 
+                    <lb n="9"/> poltroncina, col capo riverso sulla spalliera, con gli <rs type="bodyPart">occhi</rs> 
+                    <lb n="10"/> chiusi, pareva dormisse; l’altra, tutta ravvoltolata in uno 
+                    <lb n="11"/> scialle, raggomitolata nella poltrona, aveva il capo abbas-
+                    <lb n="12" break="no"/> sato sul <rs type="bodyPart">petto</rs> ; la terza, coi <rs type="bodyPart">piedini</rs> sull’alare, si chinava
+                    <lb n="13"/> macchinalmente ad avvivare il fuoco. Non si vedeva se
+                    <lb n="14"/> fossero bionde, brune, belle, brutte, robuste, ammalate; 
+                    <lb n="15"/> nulla si vedeva, se non il basso delle gonne, che si tin-
+                    <lb n="16" break="no"/> geva di colori falsi alla luce del caminetto. Scomparsa ogni 
+                    <lb n="17"/> traccia di età, di condizione, di nome. Erano ombre nel-
+                    <lb n="18" break="no"/> l’ombra.
+                </p>
+
+                <p xml:id="p2_x">
+                    <lb n="19"/> Dopo un’ora di silenzio, una di esse parlò. Non si di-
+                    <lb n="20" break="no"/> rigeva ad alcuno, parlava verso le tenebre. Aveva una
+                    <lb n="21"/> voce debole, ogni tanto più affievolita da una corrente di 
+                    <lb n="22"/> tenerezza.
+                </p>
+                
+                <p xml:id="p3_x">
+                    <lb n="23"/> — Egli m’ama. Lo conobbi singolarmente. In un’ <rs type="place">ospe-
+                    <lb n="24" break="no"/>dale</rs> di <rs type="personGroup">bambini</rs>, una <rs type="place">casa</rs> tutta candida di marmi e di 
+                    <lb n="25"/> sorrisi infantili; nella <rs type="place">chiesetta</rs> gotica pregavano <rs type="personGroup">dame</rs>, <rs type="personGroup">si- 
+                    <lb n="26" break="no"/>gnori</rs>, <rs type="personGroup">fanciulli</rs>: due <rs type="personGroup">bambine</rs> prendevano la prima comu- 
+                    <lb n="27" break="no"/> nione. Lui, aveva chinato il <rs type="bodyPart">capo</rs>. Non so se pregasse:
+                    <lb n="28"/> ma guardandolo fisso, vidi bene che le sue <rs type="bodyPart">labbra</rs> si agi-
+                    <lb n="29" break="no"/> tavano. La sua <rs type="bodyPart">testa</rs> bionda e serafica, in quell’atto ri- 
+                    <lb n="30" break="no"/> spettoso, acquistava soavità. Mi guardava co’suoi <rs type="bodyPart">occhi</rs>
+                    <lb n="31"/> azzurri, di un azzurro smaltato e chiaro: ed io mi sen- 
+                    <lb n="32" break="no"/> tiva tutta inondata dalla dolcezza di quello sguardo. Non
+                    <lb n="33"/> era peccato quello che commettevamo. Io pregava il Dio 
+                    <lb n="34"/>  in cui egli credeva: noi ci effondevamo nei tranquilli
+                    <lb n="35"/> trasporti dello stesso amore divino. Quando la messa fu
+                    <lb n="36"/> finita, egli salutò profondamente l’altare, poi me: ed uscì. 
+                    <lb n="37"/> Dopo, nel giorno della <persName ref="#Madonna">Madonna</persName>, un sereno e bel giorno, 
+                    <lb n="38"/> io ho ricevuto a casa un mazzo di <rs type="plant">fiori</rs>, <rs type="plant">mughetti</rs> bianchi 
+                    <lb n="39"/> e <rs type="plant">gigli</rs>, una meraviglia di candore. Io ho mandato a lui 
+                    <lb n="40"/> il mio rosario di legno di sandalo, i cui granelli sotto lo 
+                    <lb n="41"/> stropiccio delle dita, sprigionano un profumo acutamente 
+                    <lb n="42"/> mistico. Ci vediamo sempre la domenica, al <time type="partOfDay">vespro</time>, nella 
+                    <lb n="43"/>  <placeName ref="#Chiesa_Gerolomini">chiesa dei Gerolomini</placeName>. Egli mi attende alla porta e con 
+                    <lb n="44"/> le <rs type="bodyPart">dita</rs> tremanti mi olire l’acqua benedetta; insieme fac-
+                    <lb n="45" break="no"/> ciamo il segno della croce. Siede un po’ lontano da me,
+                    <lb n="46"/> ma ci guardiamo spesso. Dio sicuramente non si offende
+                    <lb n="47"/> di questo amore che è puro. L’atto di adorazione che nel
+                    <lb n="48"/> mio libro è un vero inno poetico, lo leggo prima io, poi 
+                    <lb n="49"/> passo il libro a lui perché legga. Usciamo insieme, non 
+                </p>
+           
+
+
+            <pb n="2"/>
+            <cb n="1"/>
+                <p xml:id="p4_x">
+                    <lb n="50"/> ci parliamo. Fino a <rs type="place">casa</rs> mi accompagna, senza darmi il 
+                    <lb n="51"/> <rs type="bodyPart">braccio</rs>. Stringe appena la mia <rs type="bodyPart">mano</rs> nel licenziarsi. Mi
+                    <lb n="52"/> scrive ogni giorno lettere sublimi di una poesia tutta spi- 
+                    <lb n="53" break="no"/> rituale, tutta essenza luminosa, tutta sfavillio di anima.
+                    <lb n="54"/> In realtà dal suo spirito prigioniero nella materia parte 
+                    <lb n="55"/> un tale raggio d’idealità, che io mi vi sento vivificata e
+                    <lb n="56"/> riscaldata. Io gli rispondo ogni giorno e cerco mettere 
+                    <lb n="57"/> nelle mie lettere lo stesso palpito affettuoso, la stessa iri-
+                    <lb n="58" break="no"/> descente vibrazione che egli imprime alle proprie parole. 
+                    <lb n="59"/> Noi ci amiamo perchè amiamo le stesse cose : i cieli sbian-
+                    <lb n="60" break="no"/> cati delle <time type="partOfDay">notti</time> autunnali, le acque d’acciaio dei <rs type="place">laghi</rs> che 
+                    <lb n="61"/> tremolano sotto il puro raggio della luna, i marmi bigi 
+                    <lb n="62"/> delle <rs type="place">chiese</rs>, i pavimenti freddi e duri, dove le <rs type="bodyPart">ginocchia</rs>
+                    <lb n="63"/> si martoriano. Noi ci amiamo nelle lagrime gelide che
+                    <lb n="64"/> quietano i nervi e smorzano l’ardore delle <rs type="bodyPart">guancie</rs>, nei sor- 
+                    <lb n="65" break="no"/> risi lenti e placidi che si rivolgono ad un punto indefi- 
+                    <lb n="66" break="no"/> nito, nei poeti celestiali come <persName ref="#Chateaubriand"><surname>Chateaubriand</surname></persName>, <persName ref="#Lamartine"><surname>Lamartine</surname></persName>,
+                    <lb n="67"/> <persName ref="#Manzoni"><surname>Manzoni</surname></persName>, nel distacco tranquillo da ogni contatto terreno, 
+                    <lb n="68"/> nelle aspirazioni al più alto, al sempre più alto...
+                </p> 
+
+                <p xml:id="p5_x">
+                    <lb n="69"/> Tacque con la voce smorzata in un entusiasmo som- 
+                    <lb n="70" break="no"/> messo e soffocante. Nessuno le rispose. Solo, dopo poco, la 
+                    <lb n="71"/> seconda che teneva il <rs type="bodyPart">capo</rs> inchinato sul <rs type="bodyPart">petto</rs>, si sollevò e
+                    <lb n="72"/>  parlò, a scatti, a sussulti, con una voce variabile, ora troppo 
+                    <lb n="73"/> forte, ora stridula e nervosa.
+                </p>
+
+                <p xml:id="p6_x">
+                    <lb n="74"/> — Egli mi ama; io lo amo. Non so come, non so perchè. 
+                    <lb n="75"/> È bello, di una bellezza calda, fulva, virilmente giovane. I 
+                    <lb n="76"/> <rs type="bodyPart">capelli</rs> gli si piantano sulla fronte, possenti come la cri- 
+                    <lb n="77" break="no"/> niera di un leone. Gli <rs type="bodyPart">occhi</rs> neri affascinano. Al <rs type="place">teatro</rs> mi 
+                    <lb n="78"/> guardava, sempre. Attraverso le lenti dell’occhialino sen- 
+                    <lb n="79" break="no"/> tivo il suo sguardo che mi toccava e mi abbruciava, lascian- 
+                    <lb n="80" break="no"/> domi sul <rs type="bodyPart">volto</rs>, sul <rs type="bodyPart">collo</rs>, sulle <rs type="bodyPart">braccia</rs> le stigmate della
+                    <lb n="81"/> passione. Io credo di aver ceduto ad un magnetismo, poiché
+                    <lb n="82"/> mentre il <rs type="bodyPart">capo</rs> mi pesava come fosse coperto di piombo,
+                    <lb n="83"/> il <rs type="bodyPart">cuore</rs> si dilatava precipitosamente sotto l’urto del <rs type="bodyPart">sangue</rs>. 
+                    <lb n="84"/> Ho baciato il mio fazzoletto. Egli mi ha visto ed un pallore
+                    <lb n="85"/> di trionfo ha scomposto il suo <rs type="bodyPart">volto</rs>. Nelle scale mi ha
+                    <lb n="86"/> aspettato, gli son passata daccanto, ha osato stringere la 
+                    <lb n="87"/> <rs type="bodyPart">mano</rs> mia nuda ed ha rubato il mio guanto. Ha passato la
+                    <lb n="88"/> <time type="partOfDay">notte</time> sotto la mia finestra; io alla finestra. Nevicava: non
+                    <lb n="89"/> sentivamo il freddo. D’allora questa mia vita è diventata 
+                    <lb n="90"/> una tempesta di desiderii, di sconfitte, di dolori acuti, di
+                    <lb n="91"/> gioie mordenti; quando non lo vedo, va lentissima l’ora 
+                    <lb n="92"/> nell’intensa brama del rivederlo. Quando ci vediamo, re- 
+                    <lb n="93" break="no"/>  stiamo l’uno di fronte all’altro, smorti, col <rs type="bodyPart">cuore</rs> in tumulto, 
+                    <lb n="94"/> le <rs type="bodyPart">mani</rs> brucianti, la voce strozzata: questo è l’impeto del- 
+                    <lb n="95" break="no"/> l’amore che ci fa impazzire. Le sue lettere sono brevi, a 
+                    <lb n="96"/> frasi nette come un colpo di coltello, a frasi dove ci è il 
+                    <lb n="97"/> sangue della vita, dove ci è l’eccitazione dei nervi, dove ci
+                    <lb n="98"/> è lo scoppio furibondo d’un amore supremo. Io l’amo come
+                    <lb n="99"/>  egli mi ama. Ambedue siamo torturati dall’amore, ambedue
+                    <lb n="100"/> soffriamo le pene dei dannati per la gelosia che ci rode,
+                    <lb n="101"/> ambedue rotoliamo, inebbriati di amore e di dolore, per una
+                    <lb n="102"/>  china dirupata dove a nulla possiamo rattenerci. Noi ab- 
+                    <lb n="103" break="no"/> biamo le medesime folli ed ammalate inclinazioni per i <rs type="plant">fiori</rs>
+                    <lb n="104"/> rossi del <rs type="plant">papavero</rs> e per le cose cupe e tragiche, per i <time type="partOfDay">tra- 
+                    <lb n="105" break="no"/> monti</time> incendiati, per le <time type="partOfDay">albe</time> sanguigne, per gli azzurri
+                    <lb n="106"/> oltremarini, per le maremme riarse sotto il sole, per i 
+                    <lb n="107"/> profumi violenti, per l’oro intarsiato che pare scorrere,
+                    <lb n="108"/> fluido, liquido sul fondo nero della lacca, per i grilli sfiniti
+                    <lb n="109"/> che muoiono di amore nel solco fumicante, per le farfalle
+                    <lb n="110"/> nere che si abbruciano intorno al lume. Ci amiamo: è lui
+                    <lb n="111"/> il mio poeta, sono io la sua ispiratrice. Con me, per me
+                    <lb n="112"/> piange le sue lagrime scarse e roventi; con lui, per lui io
+                    <lb n="113"/>  trovo il mio sorriso scapigliato, inebbriante. Noi compren- 
+                    <lb n="114" break="no"/> diamo che per una sola cosa viviamo ed è l’amore, che per 
+                    <lb n="115"/> una cosa moriremo ed è l’amore. Sono per noi gli spasimi, 
+                    <lb n="116"/> le trafitture, i fremiti allo stringere lieve di una <rs type="bodyPart">mano</rs>, i
+                </p> 
+
+            <pb n="2"/>
+            <cb n="2"/>
+
+                <p xml:id="p7_x">
+                    <lb n="117"/> pallori incomposti, le convulsioni d’ogni facoltà. Lui di- 
+                    <lb n="118" break="no"/> strugge la mia vita; io distruggo la sua. Il suo bacio...
+                </p>
+
+                <p xml:id="p8_x">
+                    <lb n="119"/> Bruscamente s’arrestò, stringendosi il <rs type="bodyPart">viso</rs> fra le <rs type="bodyPart">mani</rs>.
+                    <lb n="120"/> Allora la terza parlò, quietamente, con una voce media, giusta, 
+                    <lb n="121"/> di una monotonia grave :
+                </p>
+
+                <p xml:id="p9_x">
+                    <lb n="122"/> — Egli m’ama; io l’amo. Almeno, ogni tanto, egli me lo 
+                    <lb n="123"/> dice. Almeno ogni tanto mi sembra d’amarlo. Non ne siamo
+                    <lb n="124"/> punto sicuri. Egli non ha mai creduto all’amore; io non vi
+                    <lb n="125"/> credo, da che lui ha fatto crollare la mia fede. Una <time>giornata</time>  
+                    <lb n="126"/> plumbea, in una <rs type="place">sala</rs> d’accademia, quando un <rs type="personGroup">oratore</rs> scal- 
+                    <lb n="127" break="no"/> manato cercava invano ispirare nel <rs type="personGroup">pubblico</rs> il suo falso
+                    <lb n="128"/> entusiasmo, egli mi disse: tutto questo è molto ridicolo.
+                    <lb n="129"/> Moltissimo, gli risposi. Lui s’inchinò, soddisfatto di aver
+                    <lb n="130"/> trovato una <rs type="personGroup">donna</rs> arida come lui. Non mi ha mai scritto
+                    <lb n="131"/> lettere d’amore, non me ne scrive : io non gliene scrivo. Noi 
+                    <lb n="132"/> non crediamo nelle lettere d’amore. Non mi ha dato nè i
+                    <lb n="133"/> suoi <rs type="bodyPart">capelli</rs>, nè un anello, nè un piccolissimo dono: mi disse 
+                    <lb n="134"/> che tutta questa roba non serve e che va sempre a finire
+                    <lb n="135"/> in <rs type="place">cucina</rs>, nella spazzatura. Quando io gli dico d’amarlo, fa
+                    <lb n="136"/> una smorfia d’incredulità e mi risponde: Sai? non t’affan- 
+                    <lb n="137" break="no"/> nare, io non ti credo. Quando gli giuro che gli voglio bene, 
+                    <lb n="138"/> egli mi ascolta e poi mi soggiunge, sorridendo : Non giu- 
+                    <lb n="139" break="no"/> rare, non giurare, tu non sai nulla; può darsi che tu non
+                    <lb n="140"/> mi ami. Egli non impallidisce, non arrossisce, non cerca
+                    <lb n="141"/> vedermi, non cerca sedersi accanto a me, non mi stringe la
+                    <lb n="142"/> <rs type="bodyPart">mano</rs>, non mi offre il <rs type="bodyPart">braccio</rs>: la sua sola manifestazione è 
+                    <lb n="143"/> il sorriso, un sorriso freddo e lento. Egli non ha entusiasmi, 
+                    <lb n="144"/> mai. Non si scalda mai per nulla. Non comprende l’arte, non
+                    <lb n="145"/> comprende la politica, non comprende la scienza, non com- 
+                    <lb n="146" break="no"/> prende Dio: egli è un assiduo e calmo demolitore di quanto
+                    <lb n="147"/> gli altri credono. È l’apostolo più sicuro dello scetticismo. 
+                    <lb n="148"/> Lui sostiene brillantemente la falsità delle cose, la falsità
+                    <lb n="149"/> della natura, la falsità della passione, la falsità della virtù.
+                    <lb n="150"/> Lui è forte, bello ; nei suoi <rs type="bodyPart">occhi</rs> grigi, quasi felini, vi è tutto
+                    <lb n="151"/> il riflesso metallico della sua anima minerale. Egli rasso-
+                    <lb n="152" break="no"/>  miglia all’acciaio. È d’un pezzo solo. Non hanno presa su
+                    <lb n="153"/> lui nè lagrime, nè sospiri. Non ci crede. Contro di lui mi
+                    <lb n="154"/> spezzo. Ma dacché l’amo, l’anima mia nelle sue mani si tra- 
+                    <lb n="155" break="no"/> sforma, subisce la sua influenza. Quello che lui non crede, 
+                    <lb n="156"/> io non credo. Quello che lui vuole, fo. Quando, in un mo- 
+                    <lb n="157" break="no"/> mento di ribellione disperata, io gli domando: Ma perchè
+                    <lb n="158"/> mi vuoi bene, dunque? Egli esita, si conturba e mi risponde:
+                    <lb n="159"/> Chissà! Non so; noi non sappiamo nulla. Io ripeto con lui: 
+                    <lb n="160"/> Noi non sappiamo nulla. E rimaniamo silenziosi, addolo- 
+                    <lb n="161" break="no"/> rati, nello sconfinato dubbio di due anime inaridite...
+                </p>
+
+                <p xml:id="p10_x">
+                    <lb n="162"/> Di nuovo il silenzio regnò. Niuno lo interruppe più. Nel- 
+                    <lb n="163" break="no"/> l’ambiente caldo e bruno, si calmavano gli echi dei tre 
+                    <lb n="164"/> amori, così diversi fra loro. Eppure era lo stesso <rs type="personGroup">uomo</rs> che 
+                    <lb n="165"/> le amava tutte e tre.  
+                </p>
+                <byline> 
+                    <persName role="author">MATILDE SERAO</persName>
+                </byline>
+        </div> 
+
+
+<!-- PER SEMPRE -->
+
+<div type="article" xml:id="articolo2">
+		<head xml:id="titolo_per_sempre">PER SEMPRE</head>
+			<pb n="1"/>
+			<cb n="1"/>
+				<p xml:id="p1_per_sempre">
+                    <lb n="1"/> Queste due parole, così simpatiche, così care, <persName ref="#Giulia">Giulia</persName> e
+                    <lb n="2"/> <persName ref="#Chiarina">Chiarina</persName> le avevano pronunciate fin dalla prima volta che
+                    <lb n="3"/> si conobbero. S’ erano incontrate a un desinare di <rs type="place">campagna</rs>,
+                    <lb n="4"/> e là sui <rs type="place">prati</rs>, al suono dell’ <rs type="instrument">organetto</rs>, scambiandosi delle 
+                    <lb n="5"/> <rs type="plant">rose</rs> fresche e del <rs type="plant">timo</rs>, giurarono di amarsi per sempre.
+                    <lb n="6"/> Si trovavano entrambe in quella dolce età che separa
+                    <lb n="7"/> l’adolescenza dalla giovinezza; avevano la mente piena di
+                    <lb n="8"/> visioni, il cuore pieno di desiderii; si sentivano tanto felici 
+                    <lb n="9"/> di essere al mondo, di avere dei bei capelli, di suonare il  
+                    <lb n="10"/> <rs type="instrument">piano</rs>, di provare ogni tanto un vestito nuovo — immagi- 
+                    <lb n="11" break="no"/> navano che d’anno in anno le loro gioie dovessero crescere
+                    <lb n="12"/> — erano’ contente di sè stesse, degli altri, di tutto.
+                </p> 
+
+                <p xml:id="p2_per_sempre">
+                    <lb n="13"/> Una passioncella amorosa pose alla loro amicizia il sug- 
+                    <lb n="14" break="no"/> gello delle reciproche confidenze. <persName ref="#Chiarina">Chiarina</persName> faceva leggere
+                </p>
+             
+
+            <pb n="1"/>
+            <cb n="2"/>
+                <p xml:id="p3_per_sempre">
+                    <lb n="15"/> a <persName ref="#Giulia">Giulia</persName> tutto le sue lettere; <persName ref="#Giulia">Giulia</persName>, che non riceveva an- 
+                    <lb n="16" break="no"/> cora lettere, le mostrava invece la finestra alla quale, tutte 
+                    <lb n="17"/> le mattine, compariva un giovane <rs type="color">biondo</rs>.
+                </p> 
+
+                <p xml:id="p4_per_sempre">
+                    <lb n="18"/> Almanaccavano sull’avvenire, fabbricandosi senza biso- 
+                    <lb n="19" break="no"/> gno d’architetto un <rs type="place">castello</rs> in aria magnifico, dove sareb- 
+                    <lb n="20" break="no"/> bero vissute insieme, coi loro mariti e coi loro figli, aman- 
+                    <lb n="21" break="no"/> dosi come sorelle, per sempre. Avevano la sicurezza balda
+                    <lb n="22"/> e serena di chi non dubita di nulla.
+                </p>
+
+                <p xml:id="p5_per_sempre">
+                    <lb n="23"/> Nelle belle sere di maggio <persName ref="#Chiarina">Chiarina</persName> otteneva da sua
+                    <lb n="24"/> madre il permesso di andare a passar qualche ora sul <rs type="place">terraz- 
+                    <lb n="25" break="no"/> zino</rs> di <persName ref="#Giulia">Giulia</persName> ; là sotto la <rs type="plant">glicine</rs> fiorita le due fanciulle
+                    <lb n="26"/> si scambiavano le proprie impressioni, lungamente, con
+                    <lb n="27"/> frequenti dissertazioni, saltando senza sforzo da un punto
+                    <lb n="28"/> all’uncinetto a una frase del loro libro di preghiere; me- 
+                    <lb n="29" break="no"/> ravigliandosi di tutto, curiose, esaltate, impazienti, avide.
+                </p> 
+
+                <p xml:id="p6_per_sempre">
+                    <lb n="30"/> Il loro cicalio era un frasario arruffato o quasi senza 
+                    <lb n="31"/> senso, interrotto da sonore risate.
+                </p>
+
+                <p xml:id="p7_per_sempre">
+                    <lb n="32"/> Ma dopo un po’ di tempo si accorsero di non essere più
+                    <lb n="33"/> sole; a pochi passi di distanza il giovane biondo si metteva
+                    <lb n="34"/> in terzo colla sua aria malinconica, con i suoi sguardi pe- 
+                    <lb n="35" break="no"/> netranti; le due amiche non osavano più ridere e parla- 
+                    <lb n="36" break="no"/> vano sommesso. <persName ref="#Giulia">Giulia</persName> era preoccupata, ascoltava distrat- 
+                    <lb n="37" break="no"/> tamente ; i suoi occhi attratti da una corrente magnetica
+                    <lb n="38"/> correvano alla finestra del vicino; non lavorava più, sospi- 
+                    <lb n="39" break="no"/> rava. <persName ref="#Chiarina">Chiarina</persName> la derideva un poco ma poi finivano coll’ab- 
+                    <lb n="40" break="no"/> bracciarsi, scambiandosi baci ardenti.
+                </p>
+
+                <p xml:id="p8_per_sempre">
+                    <lb n="41"/> Venne però un giorno fatale. <persName ref="#Chiarina">Chiarina</persName>, infiammata dì 
+                    <lb n="42"/> nobile sdegno, raccontò alla sua amica che il giovane <rs type="color">biondo</rs>
+                    <lb n="43"/> l’aveva aspettata sulla via per dirigerle delle proposte amo
+                    <lb n="44" break="no"/> rose — e ciò contemporaneamente alla corte palese che 
+                    <lb n="45"/> faceva alla <persName ref="#Giulia">Giulia</persName>. Gran colpo; scoppi di pianto, lamenti, 
+                    <lb n="46"/> proteste, giuramenti. <persName ref="#Chiarina">Chiarina</persName> raccolse tutto, affezionata e
+                    <lb n="47"/> magnanima. Questo doveva essere un legame di più; era 
+                    <lb n="48"/> come la prova del fuoco applicata alla loro amicizia. Una
+                    <lb n="49"/> donna leggera, volgare, avvebbe menato vanto della con- 
+                    <lb n="50" break="no"/> quista; lei, <persName ref="#Chiarina">Chiarina</persName>, no; lei, leale, aveva palesato subito
+                    <lb n="51"/> il tradimento, disposta ad associarsi alla vendetta.
+                </p>
+
+                <p xml:id="p9_per_sempre">
+                    <lb n="52"/> <persName ref="#Giulia">Giulia</persName> sparse molte lagrime sul grembiale della sua amica
+                    <lb n="53"/> e, d’accordo, pronunciarono una sentenza nuova, cioè: che 
+                    <lb n="54"/> gli uomini sono tutti bricconi.
+                </p> 
+
+                <p xml:id="p10_per_sempre">
+                    <lb n="55"/> Ma quello che non si aspettavano certo era la conferma
+                    <lb n="56"/> che il destino preparava alla loro sentenza. Un anno dopo 
+                    <lb n="57"/> <persName ref="#Chiarina">Chiarina</persName> veniva abbandonata dall’amante per il futile pre- 
+                    <lb n="58" break="no"/> testo eh’ ella non aveva una dote sufficente.
+                </p> 
+
+                <p xml:id="p11_per_sempre">
+                    <lb n="59"/> Nuove lagrime, nuovi sfoghi confidenziali e nuova sen- 
+                    <lb n="60" break="no"/> tenza: gli uomini amano solamente per interesse.
+                </p>
+
+                <p xml:id="p12_per_sempre">
+                    <lb n="61"/> Ahi! quando una fanciulla arriva a questa conclusione, 
+                    <lb n="62"/> è segno che le rose già si sfrondano sul suo capo e già 
+                    <lb n="63"/> l’ala <rs type="color">nera</rs> del disinganno si sovrappone alle candide ali delle
+                    <lb n="64"/> sue illusioni!
+                </p>
+
+                <p xml:id="p13_per_sempre">
+                    <lb n="65"/> <persName ref="#Giulia">Giulia</persName> o <persName ref="#Chiarina">Chiarina</persName> valicarono insieme i <num>vent’ anni</num>, sor- 
+                    <lb n="66" break="no"/> prese di trovarsi così vecchie; eppure intrepide, acquistando
+                    <lb n="67"/> coraggio lungo la strada, come le reclute anziane che non
+                    <lb n="68"/> temono più 1’ odore della polvere.
+                </p> 
+
+                <p xml:id="p14_per_sempre"> 
+                    <lb n="69"/> Quale fu la prima a incominciare? — non lo seppero
+                    <lb n="70"/> mai precisamente, ma a <num>ventitré</num> anni leggevano tutte e due 
+                    <lb n="71"/> il giornale trovandovi un certo interesse, occupandosi delle 
+                    <lb n="72"/> questioni religiose, finanziarie o politiche. <persName ref="#Chiarina">Chiarina</persName> si pro- 
+                    <lb n="73" break="no"/> fessava deista, <persName ref="#Giulia">Giulia</persName> era molto cattolica; ma la divergenza
+                    <lb n="74"/> delle loro opinioni non poteva influire sulla intensità della
+                    <lb n="75"/> loro amicizia. Questa era oramai un fatto provato, indiscu- 
+                    <lb n="76" break="no"/> tibile; soltanto la morte doveva disgiungerle.
+                </p>
+
+                <p xml:id="p15_per_sempre">
+                    <lb n="77"/> Durante un inverno rigidissimo <persName ref="#Giulia">Giulia</persName> ammalò di bron- 
+                    <lb n="78" break="no"/> chite; <persName ref="#Chiarina">Chiarina</persName> passò le notti al suo letto, vegliandola con
+                    <lb n="79"/> un amore di sorella, assaggiando tutte le medicine per po- 
+                    <lb n="80" break="no"/> ter dividere almeno qualche cosa colla sua diletta. Dopo, 
+                    <lb n="81"/> por ordino del medico, andarono ai bagni insieme. Fe- 
+                </p> 
+             
+
+            <pb n="2"/>
+            <cb n="1"/>
+                <p xml:id="p16_per_sempre">
+                    <lb n="82" break="no"/> cero in questa occasione due abiti eguali, ed anche allora
+                    <lb n="83"/> ebbe campo di manifestarsi la superiorità della loro ami- 
+                    <lb n="84" break="no"/> cizia, poiché a <persName ref="#Chiarina">Chiarina</persName> stava bene il <rs type="color">rosso</rs> e a <persName ref="#Giulia">Giulia</persName> l’ <rs type="color">az- 
+                    <lb n="85" break="no"/> zurro</rs> e nessuna delle due con nobile gara voleva permet- 
+                    <lb n="86" break="no"/> tere che l’amica si sobbarcasse al colore ingrato. Decisero
+                    <lb n="87"/> finalmente di vestirsi interamente di <rs type="color">bianco</rs>, e persone com- 
+                    <lb n="88" break="no"/> petenti assicurano che parevano veramente due angeli.
+                </p>
+
+                <p xml:id="p17_per_sempre">
+                    <lb n="89"/> A <num>ventinove</num> anni si proclamarono con molto fervore per 
+                    <lb n="90"/> l’emancipazione della donna; <persName ref="#Giulia">Giulia</persName> scrisse anche qualche
+                    <lb n="91"/> articolo su questo proposito. Erano tutte o due indigna- 
+                    <lb n="92" break="no"/> tissime per i soprusi del sesso forte ; strette e concordi vo-
+                    <lb n="93" break="no"/> levano bandire una guerra contro gli uomini.
+                </p>
+
+                <p xml:id="p18_per_sempre">
+                    <lb n="94"/> Improvvisamente capitò a <persName ref="#Chiarina">Chiarina</persName> un marito e questo
+                    <lb n="95"/> cambiamento parve dovesse (parve ai maligni) rallentare
+                    <lb n="96"/> l’ardore di quell’amicizia; ma non fu così. <persName ref="#Giulia">Giulia</persName>, memore
+                    <lb n="97"/> della riconoscenza che la legava all’amica, l’accompagnò al- 
+                    <lb n="98" break="no"/> l’altare giuliva e festante ; l’aveva prima aiutata a cucire 
+                    <lb n="99"/> le eleganti camicie, a festonare i giubboncini per la notte
+                    <lb n="100"/> — l’aiutò poi a preparare camiciolini minuscoli, cuffiette e 
+                    <lb n="101"/> fascie.
+                </p>
+
+                <p xml:id="p19_per_sempre">
+                    <lb n="102"/> Il primo bambino di <persName ref="#Chiarina">Chiarina</persName> si chiamò <persName ref="#Giulio">Giulio</persName>.
+                </p>
+
+                <p xml:id="p20_per_sempre">
+                    <lb n="103"/> Arrivate alla piena maturità le due amiche non ave- 
+                    <lb n="104" break="no"/> vano cessato dal comunicarsi ogni più piccolo pensiero;
+                    <lb n="105"/> sorridevano qualche volta insieme, rimembrando le loro in- 
+                    <lb n="106" break="no"/> genuità di fanciulla e si esortavano rassegnate ad affron- 
+                    <lb n="107" break="no"/> tare l’età ingrata. 
+                </p>
+
+                <p xml:id="p21_per_sempre">
+                    <lb n="108"/> — Senti — disse una volta <persName ref="#Chiarina">Chiarina</persName> — noi ora ci in- 
+                    <lb n="109" break="no"/> camminiamo verso il tramonto; è inutile farci illusione; 
+                    <lb n="110"/> eppure come riesce difficile una piena conoscenza di se
+                    <lb n="111"/> stessi!
+                </p>
+
+                <p xml:id="p22_per_sempre">
+                    <lb n="112"/> — Hai ragione — rispose <persName ref="#Giulia">Giulia</persName> — noi vediamo le no- 
+                    <lb n="113" break="no"/> stro coetanee che pretendono ancora di fare le giovinette.
+                </p>
+
+                <p xml:id="p23_per_sempre">
+                    <lb n="114"/> — Per l’amor del cielo! innanzi che mi capiti un accie- 
+                    <lb n="115" break="no"/> camento simile voglio fare un patto con te. Giuriamo di
+                    <lb n="116"/> avvertirci reciprocamente appena l’una si accorga che
+                    <lb n="117"/> l’altra fa qualche cosa di ridicolo o di assurdo.
+                </p>
+
+                <p xml:id="p24_per_sempre">
+                    <lb n="118"/> — Benissimo. Per esempio se io vedrò che tu ti tingi 
+                    <lb n="119"/> i capelli e che il <rs type="color">nero</rs> ti gocciola sulla fronte...
+                </p>
+
+                <p xml:id="p25_per_sempre">
+                    <lb n="120"/> — A meraviglia. E se io vedrò che ti aggiungi una 
+                    <lb n="121"/> soverchia quantità di ovatta...
+                </p>
+
+                <p xml:id="p26_per_sempre">
+                    <lb n="122"/> — Siamo intese. Alleanza difensiva; giuro di essere
+                    <lb n="123"/> schietta.
+                </p>
+
+                <p xml:id="p27_per_sempre">
+                    <lb n="124"/> — Giuro auch’ io.
+                </p>
+
+                <p xml:id="p28_per_sempre">
+                    <lb n="125"/> — E non te ne avrai a male ?...
+                </p>
+
+                <p xml:id="p29_per_sempre">
+                    <lb n="126"/> — Oh ! ! Neanche te ?
+                </p>
+
+                <p xml:id="p30_per_sempre">
+                    <lb n="127"/> — Mi burli !
+                </p>
+
+                <p xml:id="p31_per_sempre">
+                    <lb n="128"/> Una calorosa stretta di mano suggellò il patto.
+                </p>
+
+                <p xml:id="p32_per_sempre">
+                    <lb n="129"/> <persName ref="#Chiarina">Chiarina</persName>, dopo il matrimonio, si era ingrassata molto ;
+                    <lb n="130"/> a <num>quarant’anni</num> era una corpulenta matrona, dal colorito 
+                    <lb n="131"/> forte, dalle movenze un po’ gravi e ineleganti. <persName ref="#Giulia">Giulia</persName> era
+                    <lb n="132"/> rimasta una figura allampanata e secca, perdendo cogli 
+                    <lb n="133"/> anni quel po’ di trasparenza giovanile che dà grazia anche
+                    <lb n="134"/> alla magrezza; ma come accade sempre, nè <persName ref="#Chiarina">Chiarina</persName> cre- 
+                    <lb n="135" break="no"/> deva di essere troppo pingue, nè <persName ref="#Giulia">Giulia</persName> era persuasa di 
+                    <lb n="136"/> somigliare a una cartapecora ingiallita.
+                </p>
+
+                <p xml:id="p33_per_sempre">
+                    <lb n="137"/> Nel <num>dodicesimo</num> anniversario del suo matrimonio <persName ref="#Chiarina">Chia- 
+                    <lb n="138" break="no"/> rina</persName> diede unu festicciuola. Si trattava di bere qualche
+                    <lb n="139"/> bottiglia e di mangiucchiare delle chicche; sul tardi qual- 
+                    <lb n="140" break="no"/> cuno propose un giro di walzer, e così, alla lesta, rimovendo
+                    <lb n="141"/> i tavolini, si incominciò un ballo che doveva essere da burla
+                    <lb n="142"/> e che finì sul serio.
+                </p>
+
+                <p xml:id="p34_per_sempre">
+                    <lb n="143"/> La signora, sbalzata improvvisamente nelle dolci me- 
+                    <lb n="144" break="no"/> morie della giovinezza, non credeva alle sue gambe e ri- 
+                    <lb n="145" break="no"/> dondo si abbandonava al piacere acuto di sentirsi ringio- 
+                    <lb n="146" break="no"/> vanita di <num>vent’anni</num>.
+                </p>
+
+                <p xml:id="p35_per_sempre">
+                    <lb n="147"/> I ballerini presenti erano pochi, ma lei se li accappar- 
+                    <lb n="148" break="no"/> rava tutti, ballando con un ardore irresistibile.
+                </p> 
+            
+
+            <pb n="2"/> 
+            <cb n="2"/>
+                <p xml:id="p36_per_sempre">
+                    <lb n="149"/> <persName ref="#Giulia">Giulia</persName>, nella sua qualità di zitella, trovò singolare o
+                    <lb n="150"/> di cattivo gusto l’abbandono in cui veniva lasciata ; dav- 
+                    <lb n="151" break="no"/> vero <persName ref="#Chiarina">Chiarina</persName> avrebbe dovuto pensare un po’ anche a lei
+                    <lb n="152"/> invece di ballare come una bambina, madre di <num>sei</num> figli !
+                </p>
+
+                <p xml:id="p37_per_sempre">
+                    <lb n="153"/> Quando <persName ref="#Chiarina">Chiarina</persName>, passando coi capelli scarmigliati e 
+                    <lb n="154"/> <rs type="color">rossa</rs> in volto, disse a <persName ref="#Giulia">Giulia</persName>, che stava seduta solitaria in 
+                    <lb n="155"/> un angolo : Balla un po’ con mio marito, — <persName ref="#Giulia">Giulia</persName> rispose
+                    <lb n="156"/> con asprezza: Grazie, tienlo per te tuo marito.
+                </p>
+
+                <p xml:id="p38_per_sempre">
+                    <lb n="157"/> <persName ref="#Chiarina">Chiarina</persName> continuando a ballare pensò : Sono proprio 
+                    <lb n="158"/> sempre ridicole queste zitellone.
+                </p>
+
+                <p xml:id="p39_per_sempre">
+                    <lb n="159"/> L’indomani, trovandosi riunite tutte e due come il so- 
+                    <lb n="160" break="no"/> lito a far la calza, la <persName ref="#Giulia">Giulia</persName>, dopo essere stata un po’ silen- 
+                    <lb n="161" break="no"/> ziosa, esclamò con molta solennità:
+                </p>
+
+                <p xml:id="p40_per_sempre">
+                    <lb n="162"/> — <persName ref="#Chiarina">Chiarina</persName>, è giunto il momento di darti prova della
+                    <lb n="163"/> mia amicizia.
+                </p> 
+
+                <p xml:id="p41_per_sempre">
+                    <lb n="164"/> — Ma non ne ho mai dubitato, figurati !
+                </p>
+
+                <p xml:id="p42_per_sempre">
+                    <lb n="165"/> — Lo so; tuttavia permetti ch’io mi valga di questa 
+                    <lb n="166"/> amicizia per essere schietta... anche a costo di parere poco
+                    <lb n="167"/> gentile.
+                </p>
+
+                <p xml:id="p43_per_sempre">
+                    <lb n="168"/> — Tu poco gentile?
+                </p>
+
+                <p xml:id="p44_per_sempre">
+                    <lb n="169"/> — È un modo di dire; sai, la verità è sempre dura a 
+                    <lb n="170"/> sapersi.
+                </p>
+
+                <p xml:id="p45_per_sempre">
+                    <lb n="171"/> — Secondo le verità. Se tu mi dicessi che mi vuoi 
+                    <lb n="172"/> bene, non credo che la troverei una verità molto dura. Eh? 
+                </p>
+
+                <p xml:id="p46_per_sempre">
+                    <lb n="173"/> — Bando agli scherzi. Ti ricordi il nostro patto?
+                </p> 
+
+                <p xml:id="p47_per_sempre">
+                    <lb n="174"/> — Quello dell’ovatta?
+                </p>
+
+                <p xml:id="p48_per_sempre">
+                    <lb n="175"/> — E dei capelli tinti, sì.
+                </p>
+
+                <p xml:id="p49_per_sempre">
+                    <lb n="176"/> — Fino ad ora non mi tingo, e se tu nou ti imbottisci...
+                </p>
+
+                <p xml:id="p50_per_sempre">
+                    <lb n="177"/> — I tuoi capelli seno ammirabili, sei proprio fortunata ; 
+                    <lb n="178"/> non si tratta di questo. Io volevo farti osservare... scusa 
+                    <lb n="179"/> veh? volevo suggerirti... poiché mi pareva...
+                </p>
+
+                <p xml:id="p51_per_sempre">
+                    <lb n="180"/> — Ma in somma che cosa ?
+                </p>
+
+                <p xml:id="p52_per_sempre">
+                    <lb n="181"/> — Per carità non avertene a male ; in sostanza poi non
+                    <lb n="182"/> è un gran difetto, ma apparentemente tu ingrassi troppo
+                    <lb n="183"/> e certe mode giovanili, per esempio la scollatura che avevi
+                    <lb n="184"/> l’altra sera... stuonano, credi, stuonano.
+                </p>
+
+                <p xml:id="p53_per_sempre">
+                    <lb n="185"/> — M’ero fatta — disse <persName ref="#Chiarina">Chiarina</persName> lasciandosi cadere le 
+                    <lb n="186"/> mani in grembo — m’ero fatta un’ opinione migliore del
+                    <lb n="187"/> tuo criterio- Da quando in qua l’essere coperte di polpa è
+                    <lb n="188"/> diventato un difetto? — forse, capisco, sarà un difetto agli
+                    <lb n="189"/> occhi di coloro che della polpa non ebbero mai altro che
+                    <lb n="190"/> il desiderio!
+                </p>
+
+                <p xml:id="p54_per_sempre">
+                    <lb n="191"/> — Mi sono espressa male — rispose Giulia facendosi in 
+                    <lb n="192"/> volto del colore di un <rs type="plant">rosolaccio</rs> — la tua pinguedine ti 
+                    <lb n="193"/> sta benissimo, ma certe mode...
+                </p>
+
+                <p xml:id="p55_per_sempre">
+                    <lb n="194"/> — Che mode ! Che mode !
+                </p>
+
+                <p xml:id="p56_per_sempre">
+                    <lb n="195"/> — Sicuro, le modo troppo attillate, i vestiti corti, le
+                    <lb n="196"/> stoffe chiare, i colletti rotondi che ingrossano...
+                </p>
+
+                <p xml:id="p57_per_sempre">
+                    <lb n="197"/> <persName ref="#Chiarina">Chiarina</persName> vedeva nei suggerimenti della sua amica un 
+                    <lb n="198"/> resto di invidia mal digerita per il ballo della sera prima,
+                    <lb n="199"/> e non volle perdonargliela.
+                </p>
+
+                <p xml:id="p58_per_sempre">
+                    <lb n="200"/> — Se te l’ho a dire, mia cara predicatora, in fatto di
+                    <lb n="201"/> mode non hai la coscienza netta neanche te.
+                </p>
+
+                <p xml:id="p59_per_sempre">
+                    <lb n="202"/> — Può darsi benissimo, tutti siamo soggetti a fallare, 
+                    <lb n="203"/> anzi ti chiedo per il bene che ci vogliamo di dirmi tutta
+                    <lb n="204"/> la verità. Io non me ne avrò a male certamente. 
+                </p>
+
+                <p xml:id="p60_per_sempre">
+                    <lb n="205"/> — Ebbene, poiché vuoi saperlo, tu sembri disposta a 
+                    <lb n="206"/> portare in <foreign xml:lang="la">saecula saeculorum</foreign> i tuoi nastri <rs type="color">celesti</rs>, i tuoi 
+                    <lb n="207"/> cappellini <rs type="color">celesti</rs>, le tue cravatte <rs type="color">celesti</rs>, dimenticando che
+                    <lb n="208"/> l’età celestiale è passata da lungo tempo e che per una 
+                    <lb n="209"/> faccia pallida e smunta il <rs type="color">celeste</rs> non è la tinta migliore. 
+                </p>
+
+                <p xml:id="p61_per_sempre">
+                    <lb n="210"/> — Qualunque cosa tu m’avessi detta, cara Chiarina, ero
+                    <lb n="211"/> disposta a crederla come Vangelo, te lo giuro; ma questa
+                    <lb n="212"/> è assurda, non ha senso comune. Hai veduto anche ieri 
+                    <lb n="213"/> che avevo quel fiocco <rs type="color">celeste</rs> nelle treccie...
+                </p>
+
+                <p xml:id="p62_per_sempre">
+                    <lb n="214"/> — Difatti, ho veduto o ho sentito che cosa ne dicevano
+                    <lb n="215"/> quei signori. 
+                </p>
+            
+
+            <pb n="3"/>
+            <cb n="1"/>
+                <p xml:id="p63_per_sempre">
+                    <lb n="216"/> — Che cosa dicevano ?
+                </p>
+
+                <p xml:id="p64_per_sempre">
+                    <lb n="217"/> — Oh ! nulla.
+                </p> 
+
+                <p xml:id="p65_per_sempre">
+                    <lb n="218"/> — Male lingue ce n’ è sempre a dovizia. Tuo cugino 
+                    <lb n="219"/> <persName ref="#Carlo">Carlo</persName>, per citarne uno, diceva parlando di te che il diavolo 
+                    <lb n="220"/> quando è vecchio si fa eremita, ma che lo donne sono peg- 
+                    <lb n="221" break="no"/> giori del diavolo.
+                </p>
+
+                <p xml:id="p66_per_sempre">
+                    <lb n="222"/> — Oh! oh! sei proprio sicura che parlasse di me? Vedi,
+                    <lb n="223"/> di donne ce no sono tante...
+                </p>
+
+                <p xml:id="p67_per_sempre">
+                    <lb n="224"/> La discussione venne interrotta, fortunatamente; ma da 
+                    <lb n="225"/> quel punto le due amiche non si videro più di buon animo. 
+                    <lb n="226"/> Tutte le volte erano occhiate sospettose, motti pungenti, 
+                    <lb n="227"/> complimenti a doppio taglio. La loro amicizia, che aveva
+                    <lb n="228"/> resistito alla rivalità in amore, alla divergenza di opinioni, 
+                    <lb n="229"/> al cambiamento di sorte, al bene come al male, si sfasciava
+                    <lb n="230"/> dilaniata dalla vanità.
+                </p>
+
+                <p xml:id="p68_per_sempre">
+                    <lb n="231"/> <persName ref="#Chiarina">Chiarina</persName> rideva colle sue amiche maritate delle scioc- 
+                    <lb n="231" break="no"/> che pretese della sua amica zitellona, e <persName ref="#Giulia">Giulia</persName> non si dava
+                    <lb n="232"/> la pena di nascondere il poco concetto in cui teneva le
+                    <lb n="233"/> donne maritate che vogliono rivaleggiare colle ragazze. Di
+                    <lb n="234"/> bocca in bocca il pettegolezzo crebbe, si allargò; non man- 
+                    <lb n="235" break="no"/> carono i benevoli che vi aggiunsero la loro frangia, e così
+                    <lb n="236"/> i cuori si invelenirono doppiamente. Piccole nubi del pas- 
+                    <lb n="237" break="no"/> sato che erano svanite senza lasciare traccia, furono tirate 
+                    <lb n="238"/> fuori, e contribuirono auch’esse ad accrescere il malumore.
+                </p>
+
+                <p xml:id="p69_per_sempre">
+                    <lb n="239"/> Alcuni tentativi di riconciliazione fallirono. <persName ref="#Chiarina">Chiarina</persName> e 
+                    <lb n="240"/> <persName ref="#Giulia">Giulia</persName>, profondamente disgustate, risolvettero di non ve- 
+                    <lb n="241" break="no"/> dersi più per la pace di entrambe — a questo modo la loro
+                    <lb n="242"/> amicizia fu sciolta : per sempre. 
+                </p>
+                <byline> 
+                    <persName role="author">NEERA</persName>
+                </byline>
+</div> 
+
+<div type="bibliography" xml:id="bibliography">
+		<head xml:id="titolo_bibliografia">BIBLIOGRAFIA</head>
+			<pb n="1"/>
+			<cb n="2"/>
+				<p xml:id="sottotitolo1_bibliografia">
+                    <lb n="1"/> <bibl><persName ref="#P._Tesio"><forename>P.</forename><surname>Tesio</surname></persName>, L’Imposta sul Reddito dei terreni. — <placeName type="city" ref="#Roma">Roma</placeName>, Tip.
+                    <lb n="2"/> Tiberina, <date when="1881">1881</date>. </bibl>
+                </p> 
+
+                <p xml:id="p1_bibliografia">
+                    <lb n="3"/> L’A. si è proposto nella pubblicazione di questo libro
+                    <lb n="4"/> uno scopo pratico, cioè il riordinamento del tributo fondia- 
+                    <lb n="5" break="no"/> rio in <placeName type="country" ref="#Italia">Italia</placeName>.
+                </p>
+
+                <p xml:id="p2_bibliografia">
+                    <lb n="6"/> E, fatto un cenno alquanto vago e incompleto dei principii 
+                    <lb n="7"/> che governano le riforme tributarie e in genere l’ordinamento
+                    <lb n="8"/> delle imposte, entra a parlare dello stato in cui si trova la
+                    <lb n="9"/> fondiaria in <placeName type="country" ref="#Italia">Italia</placeName> dopo le ultime operazioni di conguaglio ; ed
+                    <lb n="10"/> espone il concetto diverso, a cui s’informano i disegni di legge
+                    <lb n="11"/> presentati successivamente dai ministri <persName ref="#Scialoia"><surname>Scialoia</surname></persName>, <persName ref="#Minghetti"><surname>Minghetti</surname></persName> e 
+                    <lb n="12"/> <persName ref="#Depretis"><surname>Depretis</surname></persName>. Combatte il sistema dei catasti, giudicandolo essen- 
+                    <lb n="13" break="no"/> zialmente difettoso ed ingiusto a causa delle ingenti spese 
+                    <lb n="14"/> e del tempo lunghissimo che richiede, delle grandi e conti- 
+                    <lb n="15" break="no"/> nue diseguaglianze che cagiona, e dei metodi astratti, in- 
+                    <lb n="16" break="no"/> certi e inefficaci che adopera; e riferisce in proposito alcune
+                    <lb n="17"/> opinioni diverse o contradittorie degli scrittori intorno alla
+                    <lb n="18"/> sua natura e al suo assetto. E in particolar modo fa una 
+                    <lb n="19"/> breve esposizione e una critica della così detta teoria del <emph>con-</emph> 
+                </p>
+
+            <pb n="2"/>
+            <cb n="1"/>
+                <p xml:id="p3_bibliografia">
+                    <lb n="20" break="no"/> <emph>solidamento</emph>. Ma tanto in questa critica, quanto nelle obbie- 
+                    <lb n="21" break="no"/> zioni mosse al sistema del catasto, l'A. non va abbastanza al 
+                    <lb n="22"/> fondo della questione e non fa equa stima degli argomenti
+                    <lb n="23"/> che si adducono nell’un senso e nell’altro.
+                </p>
+
+                <p xml:id="p4_bibliografia"> 
+                    <lb n="24"/> Sovra due punti insiste l’A.: nel descrivere lo stato pre- 
+                    <lb n="25" break="no"/> sente della fondiaria in <placeName type="country" ref="#Italia">Italia</placeName>, dove esistono molti terreni 
+                    <lb n="26"/> censibili non censiti, altri censiti in parte soltanto od in
+                    <lb n="27"/> troppo scarsa misura, altri terreni invece aggravati per modo 
+                    <lb n="28"/> da non poter sopportare il peso dell’imposta: e nel sostenere 
+                    <lb n="29"/> la necessità di un riordinamento, che renda più proporzio- 
+                    <lb n="30" break="no"/> nato il tributo al reddito dei terreni e lo metta al livello
+                    <lb n="31"/> degli altri. L’ A. accetta in parte il consolidamento della
+                    <lb n="32"/> prediale, e in parte propugna l’istituzione dell’imposta sul
+                    <lb n="33"/> reddito dei terreni. <q>«Dichiarare quindi immobile il tributo
+                    <lb n="34"/> prediale nella misura del due terzi; e.... tassare nel limite
+                    <lb n="35"/> del rimanente terzo il vero reddito imponibile di fondi ru- 
+                    <lb n="36" break="no"/> stici: ecco in atto pratico lo basi del disegno di riforma»</q>
+                    <lb n="37"/> (p. <num>126</num>). E riguardo a quest’ ultima parte dovrebbe se-
+                    <lb n="38" break="no"/> guirsi una nuova via, e scegliersi il metodo di stabilire
+                    <lb n="39"/> <q>« l’imposta sui terreni sotto forma di una tassa personale
+                    <lb n="40"/> proporzionata al reddito, che, detratte le passività ond’ è
+                    <lb n="41"/> gravato, i proprietari realmente hanno dalle loro terre, 
+                    <lb n="42"/> seguendo il processo della denuncia e della verificazione indi- 
+                    <lb n="43" break="no"/> viduale, ossia il sistema dello dichiarazioni controllate degli
+                    <lb n="44"/> stessi proprietari»</q> (p. <num>117</num>).
+                </p> 
+
+                <p xml:id="sottotitolo2_bibliografia"> 
+                    <lb n="45"/> <bibl><persName ref="#Perrini"><surname>Perrini</surname></persName>, Corso sommario di fisica terrestre e di storia naturale 
+                    <lb n="46"/> per uso dei Licei e degl’ Istituti tecnici. — <placeName type="city" ref="#Napoli">Napoli</placeName> <date when="1881">1881</date>.
+                    <lb n="47"/> E. Detken. </bibl>
+                </p>
+
+                <p xml:id="p5_bibliografia">
+                    <lb n="48"/> Sarebbe tempo oramai che i trattati di storia naturale
+                    <lb n="49"/> destinati alle scuole secondarie cessassero di riflettere la 
+                    <lb n="50"/> scienza di <num>30</num> o <num>40</num> anni addietro, o per lo meno fossero
+                    <lb n="51"/> scevri di quei grossolani errori che in essi troppo sovente
+                    <lb n="52"/> pullulano; sarebbe tempo che quei concetti, i quali sono
+                    <lb n="53"/> risultato certo delle moderno indagini, penetrassero anche
+                    <lb n="54"/> in quei libri che si rivolgono ad ammaestrare non gli stu- 
+                    <lb n="55" break="no"/> denti universitari, ma quei giovani che forse un giorno
+                    <lb n="56"/> frequenteranno l’università; che infine chi si accinge a scri- 
+                    <lb n="57" break="no"/> vere siffatti libri avesse ben di mira il fare opera utile;
+                    <lb n="58"/> e o fosse fornito di sufficiente cognizione di tutta la materia
+                    <lb n="59"/> che imprende a trattare, o almeno ricorresse a fonti sicure
+                    <lb n="60"/> e recenti.
+                </p>
+
+                <p xml:id="p6_bibliografia">
+                    <lb n="61"/> Secondo questo pensiero sperammo cho fosso fatto il vo- 
+                    <lb n="62"/> lume che annunziamo e tale ce lo prometteva la prefazione. 
+                    <lb n="63"/> Finché l’A. sta sul terreno della fisica cosmica e della mine- 
+                    <lb n="64" break="no"/> ralogia, è manifesto che parla di cose a lui abbastanza note.
+                    <lb n="65"/> Non è più così quando giunge ai regni organici. Ancora 
+                    <lb n="66"/> la botanica contiene un numero minore di errori, quan- 
+                    <lb n="67" break="no"/> tunque ce ne siano di colossali, specialmente nella parte che
+                    <lb n="68"/> riguarda le crittogame ; così ad es. a pag. <num>262</num> notiamo una
+                    <lb n="69"/> descrizione delle Diatomee. Citiamo testualmente: <q>« I fila- 
+                    <lb n="70" break="no"/> menti tenuissimi di queste alghe si rompono in frammenti 
+                    <lb n="71"/> rettangolari, i quali poi aderiscono alternativamente fra loro,
+                    <lb n="72"/> da un lato per un angolo e dall’altro per un altro angolo. 
+                    <lb n="73"/> Or tutti questi frammenti si suddividono alla loro volta in
+                    <lb n="74"/> altri simili e più piccoli e così via via, per modo che le
+                    <lb n="75"/> ulteriori suddivisioni riescano tali e tante da sfidare il
+                    <lb n="76"/> più potente microscopio, sfuggendo assolutamente a qua- 
+                    <lb n="77" break="no"/> lunque indagine.................In questi vegetali infimi adun- 
+                    <lb n="78" break="no"/> que si osserva che per la loro struttura si avvicinano
+                    <lb n="79"/> ai cristalli, vegetano come le piante e sono semoventi come 
+                    <lb n="80"/> gli animali (!!) »</q> Questa descrizione, crediamo, farà ma- 
+                    <lb n="81" break="no"/> ravigliare il <persName ref="#Castracane"><surname>Castracane</surname></persName> che tanto ha studiato quei micro- 
+                    <lb n="82" break="no"/> scopici gioielli. — Sui fenomeni intimi della generazione
+                    <lb n="83"/> delle piante egli non ha poi concetti chiari e chiama par- 
+                    <lb n="84" break="no"/> tenogenesi la semplicissima scissione di un’ alga unicellu- 
+                    <lb n="85" break="no"/> lare. Pessima addirittura è la parte zoologica : si vede che
+                </p>
+            
+            <pb n="2"/>
+            <cb n="2"/>
+                <p xml:id="p7_bibliografia">
+                    <lb n="86"/> l’A. l’ha scritta ’senza intenderla e non ha neppure ri- 
+                    <lb n="87" break="no"/> letto con attenzione il proprio lavoro. Quindi egli parla di 
+                    <lb n="88"/> <term ref="#Canali_dell_Havers">Canali dell’Havers</term> nell’ avorio dei denti, fa segregare il 
+                    <lb n="89"/> succo gastrico da piccole papille della mucosa, dà per fatto
+                    <lb n="90"/> assodato che <emph>tutti</emph> i prodotti dello secrezioni glandolari pree- 
+                    <lb n="91" break="no"/> sistono nel sangue, dice che l’ipoglosso è l’undecimo paio
+                    <lb n="92"/> dei nervi cranici, che i rospi non hanno lingua ecc. ecc. ;
+                    <lb n="93"/> dopo di aver tralasciato, per riguardi giustificabili, di dire 
+                    <lb n="94"/> una sola parola degli organi sessuali e della fecondazione
+                    <lb n="95"/> degli animali, esce poi a parlare della partenogenesi che 
+                    <lb n="96"/> definisce <q>« fecondità delle femmine vergini »</q> (e sfidiamo lo
+                    <lb n="97"/> scolaro ad intendere, se non avrà imparato certe cose fuori 
+                    <lb n="98"/> della scuola del <persName ref="#Perrini"><roleName>prof.</roleName><surname>Perrini</surname></persName>); e tralasciamo molte altre men- 
+                    <lb n="99" break="no"/> de prescindendo pure dagli errori di ortografia e di stampa 
+                    <lb n="100"/> che non è possibile contare. Che dire poi della sistematica,
+                    <lb n="101"/> dove si vede il genere <term ref="#Lepidosiren">Lepidosiren</term> classificato una volta
+                    <lb n="102"/> tra gli <term ref="#Anfibi">Anfibii</term> (p. <num>394</num>), e poco dopo tra i <term ref="#Pesci">Pesci</term> (p. <num>399</num>); 
+                    <lb n="103"/> le <term ref="#Rudiste">Rudiste</term> considerate una volta come <term ref="#Cefalopodi">Cefalopodi</term> (p. <num>58</num>), 
+                    <lb n="104"/> un’ altra volta come <term ref="#Brachiopodi">Brachiopodi</term> (p. <num>436</num>), i <term ref="#Sipunculi">Sipunculi</term> posti
+                    <lb n="105"/> fra gli <term ref="#Echinodermi">Echinodermi</term>; i <term ref="#Briozoi">Briozoi</term> e <term ref="#Tunicati">Tunicati</term> costituire una
+                    <lb n="106"/> classe degli animali raggiati; i <term ref="#Vibrioni">Vibrioni</term> descritti come <term ref="#Infusorii">In- 
+                    <lb n="107" break="no"/> fusorii</term>, e le <term ref="#Spugne">Spugne</term> trattate come se <persName ref="#Haeckel"><surname> Haeckel</surname></persName>, <persName ref="#O._Schmidt"><forename>0.</forename><surname>Schmidt</surname></persName> 
+                    <lb n="108"/> e <persName ref="#F.E._Schulze"><forename>F. E.</forename><surname>Schulze</surname></persName> non avessero speso il loro tempo a stu- 
+                    <lb n="109" break="no"/> diarne la struttura? Ed ora è inutile che ci volgiamo a
+                    <lb n="110"/> criticare il metodo aridissimo con cui è condotto il lavoro
+                    <lb n="111"/> e la dicitura impacciata.
+                </p>
+
+                <p xml:id="p8_bibliografia">
+                    <lb n="112"/> Cosicché, dopo il <persName ref="#Perrini">sig.<surname>Perrini</surname></persName> come prima, i professori
+                    <lb n="113"/> universitari di botanica e in ispecie di zoologia dovranno 
+                    <lb n="114"/> spesso considerare come lavoro perduto quel poco che i 
+                    <lb n="115"/> giovani vogliono ritenere degli studii del liceo, e avranno
+                    <lb n="116"/> magari a combattere quei concetti falsi che i più diligenti
+                    <lb n="117"/> avessero conservati in un cantuccio della loro memoria. 
+                </p>
+    
+</div> 
+
+<div type="news" xml:id="news">
+		<head xml:id="titolo_notizie">NOTIZIE</head>
+			<pb n="2"/>
+			<cb n="2"/>
+                <p xml:id="p1_notizie">
+                    <lb n="1"/> — La Commissione, incaricata di pubblicare le lettere e gli scritti 
+                    <lb n="2"/> di <persName ref="#Pietro_il_Grande"><forename>Pietro</forename> <addName type="epithet">il Grande</addName></persName>, comincerà, potendo, quest’anno la stampa del suo 
+                    <lb n="3"/>  lavoro. Chiunque possieda manoscritti di <persName ref="#Pietro_il_Grande"><forename>Pietro</forename> <addName type="epithet">il Grande</addName></persName> o scritti da 
+                    <lb n="4"/> lui firmati è pregato di mandarli alla Commissione, che fattili copiare, 
+                    <lb n="5"/> glie li renderà o gli darà un esemplare della pubblicaziono.
+                </p> 
+
+                <p xml:id="p2_notizie">
+                    <lb n="6"/> — È annunziata per la fine di quest’anno la pubblicazione della 
+                    <lb n="7"/> traduzione dell’ <title xml:lang="la">Ecclesiaste</title>, di <persName ref="#Ernesto_Renan"><forename>Ernesto</forename> <surname>Renan</surname></persName> con una estesa prefazione.
+                </p>
+
+                <p xml:id="p3_notizie">
+                    <lb n="8"/> — In una biblioteca privata in <placeName type="country" ref="#Inghilterra">Inghilterra</placeName> si è trovato un mano- 
+                    <lb n="9" break="no"/> scritto contenente un poema francese fino ad oggi completamente sco- 
+                    <lb n="10" break="no"/> nosciuto, il cui argomento è la storia particolareggiata di <persName ref="#Guglielmo_il_Maresciallo">Guglielmo
+                    <lb n="11"/> <addName type="epithet"> il Maresciallo</addName>, <roleName> conte di Pembroke</roleName></persName>, che fu reggente d’<placeName type="country" ref="#Inghilterra">Inghilterra</placeName> nei 
+                    <lb n="12"/> primi anni della minorità di <persName ref="#Enrico_III">Enrico III</persName>. Questo poema, che non con- 
+                    <lb n="13" break="no"/> tiene meno di <num>19212</num> versi ottosillabici dev’ essere stato composto negli 
+                    <lb n="14"/> anni che seguirono la morte di <persName ref="#Guglielmo_il_Maresciallo">Guglielmo<addName type="epithet"> il Maresciallo</addName></persName>, cioè poco dopo 
+                    <lb n="15"/> il <date when="1219">1219</date>. L’autore non si nomina, ma fa conoscere chi gli fornì gli ele- 
+                    <lb n="16" break="no"/> menti (che dovevano essere molto numerosi e molto esatti) del suo la- 
+                    <lb n="17" break="no"/>  voro ; era un certo <persName ref="#Giovanni_Erica"><forename>Giovanni</forename> <surname>Erica</surname></persName>, che figura frequentemente nei do- 
+                    <lb n="18" break="no"/> cumenti diplomatici del tempo di <persName ref="#Giovanni_senza_terra">Giovanni <addName type="epithet">senza terra</addName></persName> e di <persName ref="#Enrico_III">Enrico III</persName>
+                    <lb n="19"/> sotto il nome di <persName ref="#Giovanni_Erica"><forename>Johannes</forename> <surname>de Erlegia</surname></persName>. Era stato scudiero di <persName ref="#Guglielmo_il_Maresciallo"><forename>Guglielmo</forename>
+                    <lb n="20"/> <addName type="epithet"> il Maresciallo</addName></persName> e più tardi uno dei suoi cavalieri. Il poema abbonda di 
+                    <lb n="21"/> ragguagli assolutamento nuovi e di una incontestabile autenticità su
+                    <lb n="22"/> una infinità di punti della storia della <placeName type="country" ref="#Francia">Francia</placeName> e dell’<placeName type="country" ref="#Inghilterra">Inghilterra</placeName> dal 
+                    <lb n="23"/> <date when="1140">1140</date> circa fino al <date when="1219">1219</date>. Vi sono preziosi particolari su <persName ref="#Enrico_au_court_Mantel"><forename>Enrico</forename><addName type="epithet"><foreign xml:lang="fr"> au court 
+                    <lb n="24"/> Mantel</foreign></addName></persName>, un racconto curiosissimo della salita al trono di <persName ref="#Riccardo_cuor_di_leone"><forename>Riccardo</forename><addName type="epithet"> Cuor 
+                    <lb n="25"/> di Leone</addName></persName>, molti fatti nuovi intorno alle guerre di <persName ref="#Riccardo_cuor_di_leone"><forename>Riccardo</forename></persName> e di <persName ref="#Filippo_Augusto"><forename>Fi- 
+                    <lb n="26" break="no"/> lippo</forename> Augusto </persName>, i torbidi in <placeName type="country" ref="#Irlanda">Irlanda</placeName>, sotto il <persName ref="#Giovanni_senza_terra"><roleName>re</roleName><forename> Giovanni </forename></persName>, l’invasione di 
+                    <lb n="27"/> <persName ref="#Luigi_leone"><forename>Luigi</forename></persName>, figlio di <persName ref="#Filippo_Augusto"><forename>Filippo</forename> Augusto</persName>, in <placeName type="country" ref="#Inghilterra">Inghilterra</placeName>, ecc. L’opera è già in- 
+                    <lb n="28" break="no"/> teramente copiata o si stamperà presto; intanto una notizia abbastanza 
+                    <lb n="29"/> estesa sarà pubblicata in uno dei prossimi numeri della <title>Romania</title>. 
+                </p>
+</div>
+
+</body> 
+
+<back>
+
+<listPerson>
+
+<person xml:id="Madonna">
+    <persName>
+        <forename>Maria</forename>
+    </persName>
+    <note>
+        Madre di Gesù, figura centrale del cristianesimo.
+    </note>
+</person>
+
+<person xml:id="Chateaubriand">
+    <persName>
+        <forename>François-René</forename>
+        <surname>de Chateaubriand</surname>
+    </persName>
+    <birth when="1768-09-04"> 
+        <placeName ref="#Saint_Malo">Saint-Malo</placeName>
+    </birth>
+    <death when="1848-07-04">
+        <placeName ref="#Parigi">Parigi</placeName>
+    </death> 
+    <note> 
+        Il visconte François-René de Chateaubriand è stato uno scrittore, politico e diplomatico francese. 
+        È considerato il fondatore del Romanticismo letterario francese.
+    </note>
+</person>
+
+<person xml:id="Lamartine">
+    <persName>
+        <forename>Alphonse</forename> 
+        <surname>de Lamartine</surname>
+    </persName> 
+    <birth when="1790-10-21"> 
+        <placeName ref="#Mâcon">Mâcon</placeName> 
+    </birth>
+    <death when="1869-02-28">
+        <placeName ref="#Parigi">Parigi</placeName> 
+    </death> 
+    <note>
+        Alphonse Marie Louis de Prat de Lamartine è stato un poeta, scrittore, storico, diplomatico e politico francese. 
+        Ammiratore di Chateaubriand e suo continuatore letterario, fu esponente del Romanticismo, e in politica fu dapprima un monarchico costituzionale, 
+        poi un repubblicano moderato e liberale, simpatizzante degli storici girondini, la fazione moderata della rivoluzione francese, su cui scrisse opere storiche. 
+        Lamartine fu tra i politici protagonisti della rivoluzione del 1848, che depose la monarchia di luglio instaurando la seconda repubblica.
+    </note>
+</person> 
+
+<person xml:id="Manzoni"> 
+    <persName>
+        <forename>Alessandro</forename>
+        <surname>Manzoni</surname>
+    </persName>
+    <birth when="1785-03-07"> 
+        <placeName ref="#Milano">Milano</placeName>
+    </birth>
+    <death when="1873-05-22">
+        <placeName ref="#Milano">Milano</placeName> 
+    </death> 
+    <note>
+          Alessandro Manzoni, nato Alessandro Francesco Tommaso Antonio Manzoni è stato uno scrittore, poeta e drammaturgo italiano, fu inoltre Senatore del Regno d’Italia.
+          Considerato uno dei maggiori romanzieri italiani di tutti i tempi per il celeberrimo romanzo "I promessi sposi", caposaldo della letteratura italiana, 
+          Manzoni ebbe il merito di aver gettato le basi per il romanzo moderno e di aver così patrocinato l’unità linguistica italiana, sulla scia della letteratura moralmente 
+          e civilmente impegnata propria dell’Illuminismo italiano.
+    </note>
+</person> 
+
+<person xml:id="Giulia">
+    <persName>
+        <forename>Giulia</forename>
+    </persName>
+    <note> 
+        Personaggio di finzione. Protagonista del racconto. Figura centrale nel rapporto di amicizia con Chiarina, che costituisce il nucleo tematico dell’opera.
+    </note>
+</person> 
+
+<person xml:id="Chiarina">
+    <persName>
+        <forename>Chiarina</forename>
+    </persName>
+    <note> 
+        Personaggio di finzione. Protagonista del racconto. Figura centrale nel rapporto di amicizia con Giulia, che costituisce il nucleo tematico dell’opera. 
+    </note>
+</person>
+
+<person xml:id="Giulio">
+    <persName>
+        <forename>Giulio</forename>
+    </persName>
+    <note> 
+        Personaggio di finzione. Primo figlio di Chiarina, protagonista dell’opera insieme a Giulia.
+    </note>
+</person>
+
+<person xml:id="Carlo">
+    <persName>
+        <forename>Carlo</forename>
+    </persName>
+    <note> 
+        Personaggio di finzione. Cugino di Giulia, protagonista dell’opera insieme a Chiarina. 
+    </note>
+</person>
+
+<person xml:id="P._Tesio">
+    <persName> 
+        <forename>P.</forename>
+        <surname>Tesio</surname> 
+    </persName>
+    <note> 
+        Autore di "L’imposta sul Reddito dei terreni" (1881). Figura identificata come fiscalista / giurista italiano ottocentesco; dati biografici precisi non reperiti.
+    </note>
+</person> 
+
+<person xml:id="Scialoia">
+    <persName>
+        <forename>Vittorio</forename>
+        <surname>Scialoja</surname>
+    </persName>
+    <birth when="1856-04-24"> 
+        <placeName ref="#Torino">Torino</placeName> 
+    </birth>
+    <death when="1933-11-19">
+        <placeName ref="#Roma">Roma</placeName>
+    </death> 
+    <note>
+         Vittorio Scialoja è stato un giurista e politico italiano. Studioso di diritto romano, è stato Ministro della Giustizia nel 1909 e Ministro degli Esteri nel 1919.
+    </note>
+</person> 
+
+<person xml:id="Minghetti">
+    <persName>
+        <forename>Marco</forename>
+        <surname>Minghetti</surname> 
+    </persName>
+    <birth when="1818-11-18">
+        <placeName ref="#Bologna">Bologna</placeName>
+    </birth>
+    <death when="1886-12-10">
+        <placeName ref="#Roma">Roma</placeName>
+    </death>
+    <note> 
+        Marco Minghetti è stato un politico, diplomatico e giornalista italiano, appartenente alla destra storica. Sotto il suo secondo governo si raggiunse (nel 1876), per la prima volta in Italia, 
+        il pareggio di bilancio. 
+    </note> 
+</person>
+
+<person xml:id="Depretis"> 
+    <persName> 
+        <forename>Agostino</forename>
+        <surname>Depretis</surname>
+    </persName>
+    <birth when="1813-01-31">
+        <placeName ref="#Cascina_Bella">Cascina Bella</placeName>
+    </birth>
+    <death when="1887-07-29">
+        <placeName ref="#Stradella">Stradella</placeName>
+    </death> 
+    <note> 
+        Agostino Depretis o De Pretis è stato un politico italiano.
+        Fu ministro dei Lavori pubblici nel 1862, ministro della Marina (1866-1867), ministro delle finanze (1867) e otto volte Presidente del Consiglio dei ministri del Regno d’Italia 
+        dal 1876 al 1887, anno della sua morte. Durante i governi da lui presieduti ricoprì anche la carica di ministro degli esteri (1877-1879, 1885, 1887), ministro dell’interno (1879-1887), 
+        ministro delle finanze (1876-1877) e ministro dei lavori pubblici (1877). Fu esponente moderato della Sinistra storica della quale divenne il capo nel 1873 alla morte di Urbano Rattazzi. 
+        All’interno del suo schieramento politico su antagonista di Francesco Crispi, Giovanni Nicotera e Benedetto Cairoli.
+    </note> 
+</person>
+
+<person xml:id="Perrini">
+    <persName> 
+        <surname>Perrini</surname>
+    </persName>
+    <note>
+        Autore di "Corso sommario di fisica terrestre e di storia naturale". Dati biografici non reperiti.
+    </note>
+</person> 
+
+<person xml:id="Castracane">
+    <persName> 
+        <forename>Castruccio</forename>
+        <surname>Castracane degli Antelminelli</surname>
+    </persName>
+    <birth when="1779-09-21">
+        <placeName ref="#Urbino">Urbino</placeName>
+    </birth>
+    <death when="1852-02-22">
+        <placeName ref="#Roma">Roma</placeName>
+    </death>
+    <note>
+        Castruccio Castracane degli Antelminelli è stato un cardinale e vescovo cattolico italiano.
+    </note>
+</person>
+
+<person xml:id="Haeckel">
+    <persName>
+        <forename>Ernst Heinrich Philipp August</forename>
+        <surname>Haeckel</surname>
+    </persName>
+    <birth when="1834-02-16"> 
+        <placeName ref="#Potsdam">Potsdam</placeName>
+    </birth>
+    <death when="1919-08-09">
+        <placeName ref="#Jena">Jena</placeName>
+    </death>
+    <note>
+        Ernst Heinrich Philipp August Haeckel è stato un biologo, zoologo, filosofo e artista tedesco. Ha scoperto, descritto e denominato migliaia di nuove specie e coniato molti termini in biologia, 
+        come "ecologia", "phylum", "filogenesi", "cellule staminali", "antropogenia" e "regno dei protisti".
+    </note>
+</person>
+
+<person xml:id="O._Schmidt">
+    <persName>
+        <forename>Otto</forename>
+        <surname>Schmidt</surname>
+    </persName>
+    <birth when="1891-09-30">
+        <placeName ref="#Mahilëŭ">Mahilëŭ</placeName>
+    </birth>
+    <death when="1956-09-07">
+        <placeName ref="#Mosca">Mosca</placeName>
+    </death>
+    <note>
+        Otto Jul’evič Šmidt, GSS, più noto in Europa come Otto Schmidt (in russo Отто Юльевич Шмидт?), è stato uno scienziato, esploratore ed enciclopedista sovietico, membro del Partito Comunista 
+        dell’Unione Sovietica e celebre per le sue spedizioni nell’Artico.
+    </note>
+</person>
+
+<person xml:id="F.E._Schulze">
+    <persName>
+        <forename>Franz Eilhard</forename>
+        <surname>Schulze</surname>
+    </persName>
+    <birth when="1840-03-22">
+        <placeName ref="#Eldena">Eldena</placeName>
+    </birth>
+    <death when="1921-11-02"/>
+    <note>
+        Franz Eilhard Schulze è stato un anatomista e zoologo tedesco nato a Eldena, vicino a Greifswald, in Germania. Contribuì nei suoi studi sull’anatomia e sulla storia dello sviluppo degli invertebrati, 
+        in particolare nelle sue ricerche e pubblicazioni riguardanti le spugne marine.
+    </note>
+</person>
+            
+<person xml:id="Pietro_il_Grande">
+    <persName>
+        <forename>Pietro I</forename>
+        <surname>Romanov</surname>
+    </persName>
+    <birth when="1672-06-09">
+        <placeName ref="#Mosca">Mosca</placeName>
+    </birth>
+    <death when="1725-02-08">
+        <placeName ref="#San_Pietroburgo">San Pietroburgo</placeName>
+    </death>
+    <note>
+        Pietro I Alekseevič Romanov (in russo Пётр I Алексе́евич Рома́нов?, Pëtr I Alekséevič Románov), detto Pietro il Grande, è stato zar e, dal 1721, primo imperatore di Russia. Considerato un eroe nazionale russo, 
+        compare sulle banconote da 500 rubli e francobolli; gli sono dedicati monumenti e opere letterarie. Fu il fondatore della città di San Pietroburgo.
+    </note>
+</person>
+
+<person xml:id="Ernesto_Renan">
+    <persName>
+        <forename>Joseph Ernest</forename>
+        <surname>Renan</surname>
+    </persName>
+    <birth when="1823-02-28">
+        <placeName ref="#Tréguier">Tréguier</placeName>
+    </birth>
+    <death when="1892-10-02">
+        <placeName ref="#Parigi">Parigi</placeName>
+    </death>
+    <note>
+        Joseph Ernest Renan è stato un filosofo, filologo, storico delle religioni e scrittore francese. Famoso per la sua definizione di nazione data nel suo discorso "Qu’est-ce qu’une nation ?" (Che cos’è una nazione?) 
+        ma anche per i suoi contributi in storia delle religioni, soprattutto in quanto autore della popolare "Vie de Jésus" (Vita di Gesù), primo volume, pubblicato il 24 giugno 1863, dell’ "Histoire des origines du christianisme"
+        (Storia delle origini del cristianesimo).
+    </note> 
+</person>
+
+<person xml:id="Guglielmo_il_Maresciallo">
+    <persName>
+        <forename>William</forename>
+        <surname>Marshal</surname>
+    </persName>
+    <birth when="1150" cert="low"/>
+    <death when="1219-05-14">
+        <placeName ref="#Caversham">Caversham</placeName>
+    </death>
+    <note> 
+        Guglielmo il Maresciallo, noto anche come William Marshal, è stato un cavaliere medievale inglese, nato intorno al 1145 da Giovanni e Sibilla di Salisbury. È famoso per essere stato il conte di Pembroke e per le 
+        sue avventure nel XII secolo, in cui combattè in cinque battaglie e fu considerato il miglior cavaliere del mondo. La sua vita é stata immortalata nella chanson del trovatore Giovanni, che narra le sue aventure 
+        e la sua importanza nella storia feudale. Guglielmo mori il 14 maggio 1219 e fu sepolto a Londra, nella chiesa del Tempio.
+    </note>
+</person> 
+
+<person xml:id="Enrico_III">
+    <persName>
+        <forename>Enrico III</forename>
+    </persName>
+    <birth when="1207-10-01"> 
+        <placeName ref="#Winchester">Winchester</placeName>
+    </birth>
+    <death when="1272-11-16">
+        <placeName ref="#Londra">Londra</placeName>
+    </death>
+    <note>
+        Enrico III d’Inghilterra, noto anche come Enrico III Plantageneto, è stato re d’Inghilterra dal 1216 al 1272. Salì al trono all’età di nove anni e, durante il suo regno, affrontò numerose sfide politiche, 
+        tra cui la guerra dei baroni nel 1258, che portò alla firma delle Disposizioni di Oxford, un’importante riforma amministrativa. 
+    </note>
+</person>
+
+<person xml:id="Giovanni_Erica">
+    <persName xml:lang="it">
+        <forename>Giovanni</forename>
+        <surname>Erica</surname>
+    </persName>
+    <persName xml:lang="la">
+        <forename>Johannes</forename>
+        <surname>de Erlegia</surname>
+    </persName>
+    <note>
+        Fu scudiero di Guglielmo il Maresciallo e più tardi divenne uno dei suoi cavalieri.
+    </note>
+</person>
+
+<person xml:id="Giovanni_senza_terra">
+    <persName>
+        <forename>Giovanni</forename> 
+    </persName> 
+    <birth when="1166-12-24">
+        <placeName ref="#Oxford">Oxford</placeName>
+    </birth>
+    <death when="1216-10-19">
+        <placeName ref="#Newark_on_Trent">Newark-on-Trent</placeName>
+    </death>
+    <note>
+        Giovanni Plantageneto, Giovanni d’Inghilterra o Giovanni Senzaterra, fu re d’Inghilterra dal 6 aprile 1199 al 1216, e di fatto ultimo vero sovrano teocratico. Nello stesso periodo fu anche duca d’Aquitania 
+        e Guascogna e conte di Poitiers. Dal 1199 al 1203 fu conte del Maine e duca di Normandia.
+    </note>
+</person>
+
+<person xml:id="Enrico_au_court_Mantel">
+    <persName>
+        <forename>Enrico</forename>
+    </persName>
+    <birth when="1155-02-28">
+        <placeName ref="#Londra">Londra</placeName>
+    </birth>
+    <death when="1183-06-11">
+        <placeName ref="#Martel">Martel</placeName>
+    </death>
+    <note>
+        Enrico Plantageneto, detto il Giovane, è stato conte del Maine e d’Angiò dal 1169 e, assieme al padre, re d’Inghilterra dal 1170 fino alla sua morte. 
+    </note>
+</person>
+
+<person xml:id="Riccardo_cuor_di_leone">
+    <persName> 
+        <forename>Riccardo I</forename>
+    </persName>
+    <birth when="1157-09-08">
+        <placeName ref="#Oxford">Oxford</placeName>
+    </birth>
+    <death when="1199-04-06">
+        <placeName ref="#Châlus">Châlus</placeName>
+    </death>
+    <note> 
+        Riccardo I d’Inghilterra, noto anche con il nome di Riccardo Cuor di Leone, è stato re d’Inghilterra, duca di Normandia, conte del Maine, d’Angiò e di Turenna, duca d’Aquitania e Guascogna e conte di Poitiers dal 1189 fino alla sua morte.
+    </note>
+</person>
+
+<person xml:id="Filippo_Augusto">
+    <persName>
+        <forename>Filippo II</forename>
+    </persName>
+    <birth when="1165-08-21">
+        <placeName ref="#Gonesse">Gonesse</placeName>
+    </birth>
+    <death when="1223-07-14">
+        <placeName ref="#Mantes_la_Jolie">Mantes-la-Jolie</placeName>
+    </death>
+    <note>
+        Filippo II, noto anche come Filippo Augusto, Filippo il Conquistatore o Filippo il Guercio, è stato il settimo re di Francia della dinastia Capetingia, figlio e successore di Luigi VII il Giovane e della sua terza moglie Adèle di Champagne.
+        Nel quadro della lotta alla grande feudalità fu in costante conflitto con i re d’Inghilterra, suoi vassalli: Enrico II, Riccardo I Cuor di Leone e Giovanni Senza Terra, al quale strappò infine i feudi di Normandia, Angiò e Turenna.
+    </note>
+</person>
+
+<person xml:id="Luigi_leone">
+    <persName>
+        <forename>Luigi VIII</forename>
+        <addName type="epithet">il Leone</addName>
+    </persName>
+    <birth when="1187-09-05">
+        <placeName ref="#Parigi">Parigi</placeName>
+    </birth>
+    <death>
+        <placeName ref="#Montpensier">Montpensier</placeName>
+    </death>
+    <note>
+        Luigi VIII di Francia, detto il Leone, figlio di Filippo Augusto, salì al trono nel 1223 e regnò tre anni, consolidando il potere reale, conducendo campagne contro gli Plantageneti e partecipando alla lotta contro gli Albigesi. 
+    </note>
+</person>
+
+</listPerson>
+
+<listPlace> 
+
+<place xml:id="Chiesa_Gerolomini">
+    <placeName>Chiesa dei Gerolomini</placeName>
+    <note>
+        Complesso religioso situato nel centro storico di Napoli, sede dell’Oratorio dei Girolamini fondato nel XVII secolo. La chiesa, dedicata a San Filippo Neri, è nota per il suo ricco patrimonio artistico barocco e per la storica Biblioteca dei Girolamini, uno dei più antichi istituti culturali della città.
+    </note>
+</place>
+
+<place xml:id="Roma">
+    <placeName>Roma</placeName>
+    <country>Italia</country>
+    <region>Lazio</region>
+</place>
+
+<place xml:id="Italia">
+    <placeName>Italia</placeName>
+    <country>Italia</country>
+</place>
+
+<place xml:id="Napoli">
+    <placeName>Napoli</placeName>
+    <country>Italia</country>
+    <region>Campania</region>
+</place>
+
+<place xml:id="Inghilterra">
+    <placeName>Inghilterra</placeName>
+    <country>Inghilterra</country>
+</place>
+
+<place xml:id="Francia">
+    <placeName>Francia</placeName>
+    <country>Francia</country>
+</place>
+
+<place xml:id="Irlanda">
+    <placeName>Irlanda</placeName>
+    <country>Irlanda</country>
+</place>
+
+<place xml:id="Saint_Malo">
+    <placeName>Saint-Malo</placeName>
+    <country>Francia</country>
+    <region>Bretagna</region>
+</place>
+
+<place xml:id="Parigi">
+    <placeName>Parigi</placeName>
+    <country>Francia</country>
+    <region>Île-de-France</region>
+</place>
+
+<place xml:id="Mâcon">
+    <placeName>Mâcon</placeName>
+    <country>Francia</country>
+    <region>Borgogna-Franca Contea</region>
+</place>
+
+<place xml:id="Milano">
+    <placeName>Milano</placeName>
+    <country>Italia</country>
+    <region>Lombardia</region>
+</place>
+
+<place xml:id="Torino">
+    <placeName>Torino</placeName>
+    <country>Italia</country>
+    <region>Piemonte</region>
+</place>
+
+<place xml:id="Bologna">
+    <placeName>Bologna</placeName>
+    <country>Italia</country>
+    <region>Emilia-Romagna</region>
+</place>
+
+<place xml:id="Cascina_Bella">
+    <placeName>Cascina</placeName>
+    <country>Italia</country>
+    <region>Toscana</region>
+</place>
+
+<place xml:id="Stradella">
+    <placeName>Stradella</placeName>
+    <country>Italia</country>
+    <region>Lombardia</region>
+</place>
+
+<place xml:id="Urbino">
+    <placeName>Urbino</placeName>
+    <country>Italia</country>
+    <region>Marche</region>
+</place>
+
+<place xml:id="Potsdam">
+    <placeName>Potsdam</placeName>
+    <country>Germania</country>
+    <region>Potsdam</region>
+</place>
+
+<place xml:id="Jena">
+    <placeName>Jena</placeName>
+    <country>Germania</country>
+    <region>Turingia</region>
+</place>
+
+<place xml:id="Mahilëŭ">
+    <placeName>Mahilëŭ</placeName>
+    <country>Russia</country>
+    <region>Mahilëŭ</region>
+</place>
+
+<place xml:id="Mosca">
+    <placeName>Mosca</placeName>
+    <country>Russia</country>
+    <region>Regione economica centrale</region>
+</place>
+
+<place xml:id="Eldena">
+    <placeName>Eldena</placeName>
+    <country>Germania</country>
+    <region>Meclemburgo-Pomerania Anteriore</region>
+</place>
+
+<place xml:id="San_Pietroburgo">
+    <placeName>San Pietroburgo</placeName>
+    <country>Russia</country>
+    <region>Regione nord-occidentale della Federazione Russa</region>
+</place>
+
+<place xml:id="Tréguier">
+    <placeName>Tréguier</placeName>
+    <country>Francia</country>
+    <region>Bretagna</region>
+</place>
+
+<place xml:id="Caversham">
+    <placeName>Caversham</placeName>
+    <country>Inghilterra</country>
+    <region>Contea di Berkshire</region>
+</place>
+
+<place xml:id="Winchester">
+    <placeName>Wincester</placeName>
+    <country>Inghilterra</country>
+    <region>Contea amministrativa dell'Hampshire.</region>
+</place>
+
+<place xml:id="Londra">
+    <placeName>Londra</placeName>
+    <country>Inghilterra</country>
+    <region>Inghilterra</region>
+</place>
+
+<place xml:id="Oxford">
+    <placeName>Oxford</placeName>
+    <country>Inghilterra</country>
+    <region>Contea di Oxfordshire</region>
+</place>
+
+<place xml:id="Newark_on_Trent">
+    <placeName>Newark-on-Trent</placeName>
+    <country>Inghilterra</country>
+    <region>Contea del Nottinghamshire</region>
+</place>
+
+<place xml:id="Martel">
+    <placeName>Martel</placeName>
+    <country>Francia</country>
+    <region>Occitania</region>
+</place>
+
+<place xml:id="Châlus">
+    <placeName>Châlus</placeName>
+    <country>Francia</country>
+    <region>Nuova Aquitania</region>
+</place>
+
+<place xml:id="Gonesse">
+    <placeName>Gonesse</placeName>
+    <country>Francia</country>
+    <region>Île-de-France</region>
+</place>
+
+<place xml:id="Mantes_la_Jolie">
+    <placeName>Mantes-la-Jolie</placeName>
+    <country>Francia</country>
+    <region>Île-de-France</region>
+</place>
+
+<place xml:id="Montpensier">
+    <placeName>Montpensier</placeName>
+    <country>Francia</country>
+    <region>Alvernia-Rodano-Alpi</region>
+</place>
+
+</listPlace>
+
+<list type="term">
+
+<item xml:id="Canali_dell_Havers">
+<note>
+    I canali di Havers sono canali vascolari che percorrono il tessuto osseo lamellare compatto delle ossa piatte e le diafisi delle ossa lunghe.
+</note>
+</item>
+
+<item xml:id="Lepidosiren">
+<note>
+    I Lepidosiren sono un genere di pesci dipnoi sudamericani, noti come “pesci polmonati”
+</note>
+</item>
+
+<item xml:id="Anfibi">
+<note>
+    Gli anfibi sono vertebrati tetrapodi che vivono una “doppia vita”, tra acqua e terra, e comprendono rane, salamandre e cecilie.
+</note>
+</item>
+
+<item xml:id="Pesci">
+<note>
+    I Pesci sono vertebrati acquatici dotati di pinne e respirazione branchiale.
+</note>
+</item>
+
+<item xml:id="Rudiste">
+<note>
+    Le Rudiste sono Molluschi bivalvi fossili tipici del Cretaceo, spesso costruttori di scogliere.
+</note>
+</item>
+
+<item xml:id="Cefalopodi">
+<note>
+    I Cefalopodi sono una classe di molluschi marini che comprende polpi, calamari e seppie.
+</note>
+</item>
+
+<item xml:id="Brachiopodi">
+<note>
+    I Brachiopodi sono invertebrati marini con due valve dorsoventrale, simili ai bivalvi ma non imparentati.
+</note>
+</item>
+
+<item xml:id="Sipunculi">
+<note>
+    I Sipunculi sono phylum di vermi marini non segmentati, detti anche “vermi a proboscide”.
+</note>
+</item>
+
+<item xml:id="Echinodermi">
+<note>
+    Gli Echinodermi sono phylum di invertebrati marini che comprende stelle marine, ricci e oloturie.
+</note>
+</item>
+
+<item xml:id="Briozoi">
+<note>
+    I Briozoi sono invertebrati acquatici coloniali, spesso costruttori di strutture calcaree.
+</note>
+</item>
+
+<item xml:id="Tunicati">
+<note>
+    I Tunicati sono subphylum di cordati marini, comprendente ascidie e talie.
+</note>
+</item>
+
+<item xml:id="Vibrioni">
+<note>
+    Antica denominazione per batteri a forma di virgola, oggi riferita al genere *Vibrio*.
+</note>
+</item>
+
+<item xml:id="Infusorii">
+<note>
+    Termine storico per indicare protozoi e microrganismi presenti nelle infusioni organiche.
+</note>
+</item>
+
+<item xml:id="Spugne">
+<note>
+    Le Spugne sono invertebrati acquatici del phylum Porifera, caratterizzati da un corpo poroso filtrante.
+</note>
+</item>
+</list>
+
+</back>
+</text>
+</TEI>
